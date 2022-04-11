@@ -1,0 +1,2182 @@
+id,drug,daily_dosage,start_day,end_day,Medication Duration (days),Treatment
+0,atorvastatin,10,19,109,90,Medication Period-High Blood Cholestrol
+0,atorvastatin,10,117,207,90,Medication Period-High Blood Cholestrol
+0,losartan,100,19,289,270,Medication Period-Hyper Tension
+0,losartan,100,403,493,90,Medication Period-Hyper Tension
+0,losartan,100,587,677,90,Medication Period-Hyper Tension
+0,metformin,1000,19,109,90,Medication Period-Diabetes Type 2
+0,metformin,1000,131,281,150,Medication Period-Diabetes Type 2
+0,metformin,1000,309,399,90,Medication Period-Diabetes Type 2
+0,metformin,1000,312,462,150,Medication Period-Diabetes Type 2
+0,metformin,1000,467,557,90,Medication Period-Diabetes Type 2
+0,metformin,1000,551,641,90,Medication Period-Diabetes Type 2
+1,atorvastatin,20,43,133,90,Medication Period-High Blood Cholestrol
+1,atorvastatin,20,96,126,30,Medication Period-High Blood Cholestrol
+1,atorvastatin,40,295,385,90,Medication Period-High Blood Cholestrol
+1,atorvastatin,40,394,484,90,Medication Period-High Blood Cholestrol
+2,rosuvastatin,10,213,303,90,Medication Period-High Blood Cholestrol
+2,rosuvastatin,10,577,667,90,Medication Period-High Blood Cholestrol
+3,atorvastatin,10,187,277,90,Medication Period-High Blood Cholestrol
+3,atorvastatin,10,334,424,90,Medication Period-High Blood Cholestrol
+3,atorvastatin,10,481,571,90,Medication Period-High Blood Cholestrol
+3,atorvastatin,10,560,650,90,Medication Period-High Blood Cholestrol
+4,losartan,100,19,109,90,Medication Period-Hyper Tension
+4,losartan,100,22,112,90,Medication Period-Hyper Tension
+4,losartan,100,270,360,90,Medication Period-Hyper Tension
+4,losartan,100,394,484,90,Medication Period-Hyper Tension
+4,metformin,850,31,121,90,Medication Period-Diabetes Type 2
+4,metformin,850,157,247,90,Medication Period-Diabetes Type 2
+4,metformin,850,351,441,90,Medication Period-Diabetes Type 2
+4,metformin,850,448,538,90,Medication Period-Diabetes Type 2
+4,metformin,850,457,547,90,Medication Period-Diabetes Type 2
+4,metformin,850,548,638,90,Medication Period-Diabetes Type 2
+4,pravastatin,40,0,90,90,Medication Period-High Blood Cholestrol
+4,pravastatin,40,116,206,90,Medication Period-High Blood Cholestrol
+4,pravastatin,40,157,247,90,Medication Period-High Blood Cholestrol
+4,pravastatin,40,304,394,90,Medication Period-High Blood Cholestrol
+4,pravastatin,40,351,441,90,Medication Period-High Blood Cholestrol
+4,pravastatin,40,448,538,90,Medication Period-High Blood Cholestrol
+4,pravastatin,40,457,547,90,Medication Period-High Blood Cholestrol
+4,pravastatin,40,548,638,90,Medication Period-High Blood Cholestrol
+5,carvedilol,12.5,0,90,90,Medication Period-Hyper Tension
+5,carvedilol,12.5,291,381,90,Medication Period-Hyper Tension
+5,carvedilol,12.5,385,475,90,Medication Period-Hyper Tension
+5,carvedilol,12.5,388,478,90,Medication Period-Hyper Tension
+5,carvedilol,12.5,473,563,90,Medication Period-Hyper Tension
+5,losartan,100,290,380,90,Medication Period-Hyper Tension
+5,losartan,100,291,381,90,Medication Period-Hyper Tension
+5,losartan,100,473,563,90,Medication Period-Hyper Tension
+5,rosuvastatin,10,290,380,90,Medication Period-High Blood Cholestrol
+5,rosuvastatin,10,291,381,90,Medication Period-High Blood Cholestrol
+5,rosuvastatin,10,473,563,90,Medication Period-High Blood Cholestrol
+6,atorvastatin,40,52,142,90,Medication Period-High Blood Cholestrol
+6,atorvastatin,40,97,187,90,Medication Period-High Blood Cholestrol
+6,atorvastatin,40,284,374,90,Medication Period-High Blood Cholestrol
+6,atorvastatin,40,473,563,90,Medication Period-High Blood Cholestrol
+6,valsartan,160,97,187,90,Medication Period-Hyper Tension
+6,valsartan,160,284,374,90,Medication Period-Hyper Tension
+6,valsartan,160,473,563,90,Medication Period-Hyper Tension
+7,atorvastatin,40,20,110,90,Medication Period-High Blood Cholestrol
+7,atorvastatin,40,111,201,90,Medication Period-High Blood Cholestrol
+7,atorvastatin,40,221,311,90,Medication Period-High Blood Cholestrol
+7,atorvastatin,40,314,404,90,Medication Period-High Blood Cholestrol
+7,atorvastatin,40,391,481,90,Medication Period-High Blood Cholestrol
+7,atorvastatin,80,395,485,90,Medication Period-High Blood Cholestrol
+7,metoprolol,50,168,258,90,Medication Period-Hyper Tension
+7,metoprolol,50,179,269,90,Medication Period-Hyper Tension
+7,metoprolol,50,180,270,90,Medication Period-Hyper Tension
+7,metoprolol,50,349,379,30,Medication Period-Hyper Tension
+7,metoprolol,50,391,481,90,Medication Period-Hyper Tension
+7,metoprolol,50,600,690,90,Medication Period-Hyper Tension
+7,metoprolol,50,601,691,90,Medication Period-Hyper Tension
+7,valsartan,320,0,30,30,Medication Period-Hyper Tension
+7,valsartan,320,3,33,30,Medication Period-Hyper Tension
+7,valsartan,320,167,257,90,Medication Period-Hyper Tension
+7,valsartan,320,388,478,90,Medication Period-Hyper Tension
+7,valsartan,320,391,481,90,Medication Period-Hyper Tension
+7,valsartan,320,563,653,90,Medication Period-Hyper Tension
+8,atorvastatin,20,504,594,90,Medication Period-High Blood Cholestrol
+8,metoprolol,50,15,105,90,Medication Period-Hyper Tension
+9,metoprolol,100,235,265,30,Medication Period-Hyper Tension
+9,metoprolol,100,241,331,90,Medication Period-Hyper Tension
+10,atorvastatin,40,588,618,30,Medication Period-High Blood Cholestrol
+10,losartan,100,144,174,30,Medication Period-Hyper Tension
+10,losartan,100,253,343,90,Medication Period-Hyper Tension
+10,losartan,100,453,543,90,Medication Period-Hyper Tension
+10,metformin,1000,228,258,30,Medication Period-Diabetes Type 2
+10,metformin,1000,453,573,120,Medication Period-Diabetes Type 2
+10,metoprolol,25,144,324,180,Medication Period-Hyper Tension
+10,metoprolol,25,453,633,180,Medication Period-Hyper Tension
+10,simvastatin,40,7,277,270,Medication Period-High Blood Cholestrol
+10,simvastatin,40,320,410,90,Medication Period-High Blood Cholestrol
+10,simvastatin,40,453,543,90,Medication Period-High Blood Cholestrol
+10,simvastatin,40,588,678,90,Medication Period-High Blood Cholestrol
+11,metformin,1000,22,52,30,Medication Period-Diabetes Type 2
+11,metformin,1000,86,116,30,Medication Period-Diabetes Type 2
+11,metformin,1000,125,215,90,Medication Period-Diabetes Type 2
+11,metformin,1000,461,491,30,Medication Period-Diabetes Type 2
+11,simvastatin,80,86,176,90,Medication Period-High Blood Cholestrol
+11,simvastatin,80,461,551,90,Medication Period-High Blood Cholestrol
+12,metformin,2000,239,329,90,Medication Period-Diabetes Type 2
+12,metformin,2000,604,694,90,Medication Period-Diabetes Type 2
+13,atorvastatin,20,95,185,90,Medication Period-High Blood Cholestrol
+13,atorvastatin,20,461,551,90,Medication Period-High Blood Cholestrol
+13,atorvastatin,20,555,645,90,Medication Period-High Blood Cholestrol
+14,carvedilol,25,404,434,30,Medication Period-Hyper Tension
+14,carvedilol,50,607,637,30,Medication Period-Hyper Tension
+14,losartan,100,586,676,90,Medication Period-Hyper Tension
+14,losartan,100,607,637,30,Medication Period-Hyper Tension
+14,valsartan,640,607,652,45,Medication Period-Hyper Tension
+15,bisoprolol,5,33,123,90,Medication Period-Hyper Tension
+15,bisoprolol,5,210,300,90,Medication Period-Hyper Tension
+15,bisoprolol,5,263,353,90,Medication Period-Hyper Tension
+15,bisoprolol,5,402,492,90,Medication Period-Hyper Tension
+15,bisoprolol,5,584,674,90,Medication Period-Hyper Tension
+15,metformin,1500,210,300,90,Medication Period-Diabetes Type 2
+15,metformin,1500,364,454,90,Medication Period-Diabetes Type 2
+15,metformin,1500,402,492,90,Medication Period-Diabetes Type 2
+15,metformin,1500,584,674,90,Medication Period-Diabetes Type 2
+15,simvastatin,40,10,100,90,Medication Period-High Blood Cholestrol
+15,simvastatin,40,33,123,90,Medication Period-High Blood Cholestrol
+15,simvastatin,40,210,300,90,Medication Period-High Blood Cholestrol
+15,simvastatin,40,266,356,90,Medication Period-High Blood Cholestrol
+15,simvastatin,40,402,492,90,Medication Period-High Blood Cholestrol
+15,simvastatin,40,433,523,90,Medication Period-High Blood Cholestrol
+15,simvastatin,40,584,674,90,Medication Period-High Blood Cholestrol
+16,atenolol,50,35,125,90,Medication Period-Hyper Tension
+16,atenolol,25,55,145,90,Medication Period-Hyper Tension
+16,atenolol,50,210,300,90,Medication Period-Hyper Tension
+16,atenolol,50,420,510,90,Medication Period-Hyper Tension
+16,atenolol,50,597,687,90,Medication Period-Hyper Tension
+16,atorvastatin,40,0,90,90,Medication Period-High Blood Cholestrol
+16,atorvastatin,40,180,270,90,Medication Period-High Blood Cholestrol
+16,atorvastatin,40,370,460,90,Medication Period-High Blood Cholestrol
+16,atorvastatin,40,457,547,90,Medication Period-High Blood Cholestrol
+16,losartan,100,56,86,30,Medication Period-Hyper Tension
+16,losartan,100,239,329,90,Medication Period-Hyper Tension
+16,losartan,100,428,518,90,Medication Period-Hyper Tension
+16,valsartan,320,55,145,90,Medication Period-Hyper Tension
+16,valsartan,320,56,146,90,Medication Period-Hyper Tension
+16,valsartan,160,428,503,75,Medication Period-Hyper Tension
+17,atorvastatin,20,174,204,30,Medication Period-High Blood Cholestrol
+17,atorvastatin,20,332,362,30,Medication Period-High Blood Cholestrol
+17,atorvastatin,20,535,565,30,Medication Period-High Blood Cholestrol
+17,atorvastatin,20,554,584,30,Medication Period-High Blood Cholestrol
+17,atorvastatin,20,602,632,30,Medication Period-High Blood Cholestrol
+17,carvedilol,12.5,69,99,30,Medication Period-Hyper Tension
+17,carvedilol,12.5,80,110,30,Medication Period-Hyper Tension
+17,carvedilol,12.5,84,114,30,Medication Period-Hyper Tension
+17,carvedilol,12.5,332,362,30,Medication Period-Hyper Tension
+17,carvedilol,12.5,534,564,30,Medication Period-Hyper Tension
+17,losartan,25,174,204,30,Medication Period-Hyper Tension
+17,losartan,25,332,362,30,Medication Period-Hyper Tension
+17,losartan,25,535,565,30,Medication Period-Hyper Tension
+17,metformin,500,332,392,60,Medication Period-Diabetes Type 2
+17,simvastatin,20,69,99,30,Medication Period-High Blood Cholestrol
+18,metformin,2000,62,92,30,Medication Period-Diabetes Type 2
+18,metformin,2000,71,101,30,Medication Period-Diabetes Type 2
+18,metformin,2000,141,231,90,Medication Period-Diabetes Type 2
+18,metformin,2000,309,399,90,Medication Period-Diabetes Type 2
+18,metformin,2000,461,551,90,Medication Period-Diabetes Type 2
+18,metoprolol,200,29,119,90,Medication Period-Hyper Tension
+18,metoprolol,200,57,147,90,Medication Period-Hyper Tension
+18,metoprolol,200,309,399,90,Medication Period-Hyper Tension
+18,metoprolol,200,461,551,90,Medication Period-Hyper Tension
+18,pravastatin,40,57,147,90,Medication Period-High Blood Cholestrol
+18,pravastatin,40,309,399,90,Medication Period-High Blood Cholestrol
+18,pravastatin,40,461,551,90,Medication Period-High Blood Cholestrol
+18,pravastatin,40,466,556,90,Medication Period-High Blood Cholestrol
+19,atorvastatin,20,244,334,90,Medication Period-High Blood Cholestrol
+19,atorvastatin,20,246,336,90,Medication Period-High Blood Cholestrol
+19,atorvastatin,20,379,469,90,Medication Period-High Blood Cholestrol
+19,atorvastatin,20,436,526,90,Medication Period-High Blood Cholestrol
+19,metformin,2000,173,263,90,Medication Period-Diabetes Type 2
+19,metformin,2000,246,276,30,Medication Period-Diabetes Type 2
+19,metformin,2000,579,669,90,Medication Period-Diabetes Type 2
+20,losartan,25,162,192,30,Medication Period-Hyper Tension
+20,losartan,25,362,452,90,Medication Period-Hyper Tension
+20,losartan,25,560,650,90,Medication Period-Hyper Tension
+20,metformin,500,0,90,90,Medication Period-Diabetes Type 2
+20,metformin,500,362,452,90,Medication Period-Diabetes Type 2
+20,metformin,500,560,650,90,Medication Period-Diabetes Type 2
+20,simvastatin,10,-54,36,90,Medication Period-High Blood Cholestrol
+20,simvastatin,10,141,231,90,Medication Period-High Blood Cholestrol
+20,simvastatin,10,362,452,90,Medication Period-High Blood Cholestrol
+20,simvastatin,10,560,650,90,Medication Period-High Blood Cholestrol
+21,metformin,500,339,369,30,Medication Period-Diabetes Type 2
+21,metformin,500,409,439,30,Medication Period-Diabetes Type 2
+21,metformin,500,441,471,30,Medication Period-Diabetes Type 2
+21,metformin,500,479,509,30,Medication Period-Diabetes Type 2
+21,metformin,500,510,540,30,Medication Period-Diabetes Type 2
+21,metformin,500,544,574,30,Medication Period-Diabetes Type 2
+21,metformin,500,613,643,30,Medication Period-Diabetes Type 2
+22,atorvastatin,10,380,470,90,Medication Period-High Blood Cholestrol
+22,atorvastatin,10,404,494,90,Medication Period-High Blood Cholestrol
+23,atorvastatin,40,160,430,270,Medication Period-High Blood Cholestrol
+23,losartan,100,160,430,270,Medication Period-Hyper Tension
+23,metformin,1000,160,250,90,Medication Period-Diabetes Type 2
+23,metformin,1000,556,646,90,Medication Period-Diabetes Type 2
+23,metoprolol,100,27,117,90,Medication Period-Hyper Tension
+24,lovastatin,40,85,355,270,Medication Period-High Blood Cholestrol
+24,metformin,500,85,355,270,Medication Period-Diabetes Type 2
+24,metformin,500,286,376,90,Medication Period-Diabetes Type 2
+24,metformin,500,371,461,90,Medication Period-Diabetes Type 2
+24,metformin,500,451,541,90,Medication Period-Diabetes Type 2
+24,valsartan,640,85,130,45,Medication Period-Hyper Tension
+24,valsartan,640,176,221,45,Medication Period-Hyper Tension
+24,valsartan,640,451,496,45,Medication Period-Hyper Tension
+24,valsartan,640,636,681,45,Medication Period-Hyper Tension
+25,atorvastatin,10,0,90,90,Medication Period-High Blood Cholestrol
+25,atorvastatin,10,159,249,90,Medication Period-High Blood Cholestrol
+25,atorvastatin,10,326,416,90,Medication Period-High Blood Cholestrol
+25,atorvastatin,10,468,558,90,Medication Period-High Blood Cholestrol
+25,metformin,500,246,426,180,Medication Period-Diabetes Type 2
+25,metformin,500,403,583,180,Medication Period-Diabetes Type 2
+25,metformin,500,468,558,90,Medication Period-Diabetes Type 2
+26,atenolol,50,110,140,30,Medication Period-Hyper Tension
+26,atenolol,50,480,510,30,Medication Period-Hyper Tension
+26,atenolol,50,647,677,30,Medication Period-Hyper Tension
+26,olmesartan,40,-11,19,30,Medication Period-Hyper Tension
+26,olmesartan,40,362,392,30,Medication Period-Hyper Tension
+27,lovastatin,40,224,254,30,Medication Period-High Blood Cholestrol
+27,lovastatin,40,475,505,30,Medication Period-High Blood Cholestrol
+27,metformin,1000,138,168,30,Medication Period-Diabetes Type 2
+27,metformin,1000,315,345,30,Medication Period-Diabetes Type 2
+27,metformin,1000,544,574,30,Medication Period-Diabetes Type 2
+27,metoprolol,50,0,180,180,Medication Period-Hyper Tension
+27,metoprolol,25,224,254,30,Medication Period-Hyper Tension
+27,metoprolol,50,224,404,180,Medication Period-Hyper Tension
+27,metoprolol,25,345,645,300,Medication Period-Hyper Tension
+27,metoprolol,25,398,698,300,Medication Period-Hyper Tension
+27,metoprolol,25,573,603,30,Medication Period-Hyper Tension
+28,losartan,100,59,149,90,Medication Period-Hyper Tension
+28,losartan,100,239,329,90,Medication Period-Hyper Tension
+28,losartan,100,241,331,90,Medication Period-Hyper Tension
+28,losartan,100,423,513,90,Medication Period-Hyper Tension
+28,losartan,100,425,515,90,Medication Period-Hyper Tension
+29,carvedilol,6.25,6,96,90,Medication Period-Hyper Tension
+29,carvedilol,6.25,216,306,90,Medication Period-Hyper Tension
+29,carvedilol,6.25,474,564,90,Medication Period-Hyper Tension
+29,pravastatin,20,6,36,30,Medication Period-High Blood Cholestrol
+29,pravastatin,20,216,306,90,Medication Period-High Blood Cholestrol
+29,pravastatin,20,474,564,90,Medication Period-High Blood Cholestrol
+30,atenolol,25,93,633,540,Medication Period-Hyper Tension
+30,atenolol,25,99,639,540,Medication Period-Hyper Tension
+30,atenolol,25,155,695,540,Medication Period-Hyper Tension
+30,pravastatin,20,93,123,30,Medication Period-High Blood Cholestrol
+30,pravastatin,20,99,129,30,Medication Period-High Blood Cholestrol
+30,pravastatin,20,269,299,30,Medication Period-High Blood Cholestrol
+30,pravastatin,20,469,499,30,Medication Period-High Blood Cholestrol
+31,carvedilol,25,7,97,90,Medication Period-Hyper Tension
+31,carvedilol,25,185,275,90,Medication Period-Hyper Tension
+31,carvedilol,25,221,311,90,Medication Period-Hyper Tension
+31,carvedilol,25,368,458,90,Medication Period-Hyper Tension
+31,carvedilol,25,549,639,90,Medication Period-Hyper Tension
+31,losartan,100,7,97,90,Medication Period-Hyper Tension
+31,losartan,100,185,275,90,Medication Period-Hyper Tension
+31,losartan,100,213,303,90,Medication Period-Hyper Tension
+31,losartan,100,368,458,90,Medication Period-Hyper Tension
+31,losartan,200,549,639,90,Medication Period-Hyper Tension
+32,carvedilol,25,175,205,30,Medication Period-Hyper Tension
+32,carvedilol,12.5,291,321,30,Medication Period-Hyper Tension
+32,carvedilol,25,292,322,30,Medication Period-Hyper Tension
+32,carvedilol,12.5,292,322,30,Medication Period-Hyper Tension
+32,pravastatin,10,223,313,90,Medication Period-High Blood Cholestrol
+32,pravastatin,10,291,381,90,Medication Period-High Blood Cholestrol
+32,pravastatin,10,447,537,90,Medication Period-High Blood Cholestrol
+32,simvastatin,10,175,205,30,Medication Period-High Blood Cholestrol
+32,valsartan,640,175,310,135,Medication Period-Hyper Tension
+33,irbesartan,300,95,185,90,Medication Period-Hyper Tension
+34,atenolol,25,325,415,90,Medication Period-Hyper Tension
+34,atenolol,25,436,526,90,Medication Period-Hyper Tension
+34,atorvastatin,80,0,270,270,Medication Period-High Blood Cholestrol
+34,atorvastatin,80,364,454,90,Medication Period-High Blood Cholestrol
+34,atorvastatin,80,436,526,90,Medication Period-High Blood Cholestrol
+34,lovastatin,40,0,90,90,Medication Period-High Blood Cholestrol
+34,metformin,500,21,111,90,Medication Period-Diabetes Type 2
+34,metformin,500,290,380,90,Medication Period-Diabetes Type 2
+34,metformin,500,436,526,90,Medication Period-Diabetes Type 2
+36,atorvastatin,40,256,346,90,Medication Period-High Blood Cholestrol
+36,atorvastatin,40,599,689,90,Medication Period-High Blood Cholestrol
+36,metformin,500,177,267,90,Medication Period-Diabetes Type 2
+36,metformin,500,179,269,90,Medication Period-Diabetes Type 2
+36,metformin,500,196,286,90,Medication Period-Diabetes Type 2
+36,metformin,500,270,360,90,Medication Period-Diabetes Type 2
+36,metformin,500,299,389,90,Medication Period-Diabetes Type 2
+36,metformin,500,365,455,90,Medication Period-Diabetes Type 2
+36,metformin,500,386,476,90,Medication Period-Diabetes Type 2
+36,metformin,500,452,542,90,Medication Period-Diabetes Type 2
+36,metformin,500,453,543,90,Medication Period-Diabetes Type 2
+36,metformin,500,544,634,90,Medication Period-Diabetes Type 2
+36,metformin,500,556,646,90,Medication Period-Diabetes Type 2
+36,metformin,500,599,689,90,Medication Period-Diabetes Type 2
+36,metoprolol,50,256,346,90,Medication Period-Hyper Tension
+36,metoprolol,50,599,689,90,Medication Period-Hyper Tension
+37,metformin,500,92,362,270,Medication Period-Diabetes Type 2
+37,metformin,500,368,638,270,Medication Period-Diabetes Type 2
+37,rosuvastatin,40,176,206,30,Medication Period-High Blood Cholestrol
+37,rosuvastatin,40,368,458,90,Medication Period-High Blood Cholestrol
+37,rosuvastatin,40,371,461,90,Medication Period-High Blood Cholestrol
+37,rosuvastatin,40,409,499,90,Medication Period-High Blood Cholestrol
+38,atorvastatin,40,160,190,30,Medication Period-High Blood Cholestrol
+38,atorvastatin,40,413,503,90,Medication Period-High Blood Cholestrol
+38,atorvastatin,40,512,542,30,Medication Period-High Blood Cholestrol
+38,atorvastatin,40,517,547,30,Medication Period-High Blood Cholestrol
+38,atorvastatin,40,659,689,30,Medication Period-High Blood Cholestrol
+38,pravastatin,80,22,112,90,Medication Period-High Blood Cholestrol
+38,pravastatin,80,160,250,90,Medication Period-High Blood Cholestrol
+39,atenolol,100,36,126,90,Medication Period-Hyper Tension
+39,atenolol,100,267,357,90,Medication Period-Hyper Tension
+39,atenolol,100,272,362,90,Medication Period-Hyper Tension
+39,atenolol,100,580,670,90,Medication Period-Hyper Tension
+39,simvastatin,10,36,126,90,Medication Period-High Blood Cholestrol
+39,simvastatin,10,267,357,90,Medication Period-High Blood Cholestrol
+39,simvastatin,10,272,362,90,Medication Period-High Blood Cholestrol
+39,simvastatin,10,312,402,90,Medication Period-High Blood Cholestrol
+39,simvastatin,10,419,509,90,Medication Period-High Blood Cholestrol
+40,bisoprolol,10,76,166,90,Medication Period-Hyper Tension
+40,bisoprolol,10,289,379,90,Medication Period-Hyper Tension
+40,bisoprolol,10,385,475,90,Medication Period-Hyper Tension
+40,bisoprolol,10,589,679,90,Medication Period-Hyper Tension
+40,losartan,100,289,379,90,Medication Period-Hyper Tension
+40,losartan,100,385,475,90,Medication Period-Hyper Tension
+40,losartan,100,589,679,90,Medication Period-Hyper Tension
+40,metformin,500,289,469,180,Medication Period-Diabetes Type 2
+40,metformin,500,385,565,180,Medication Period-Diabetes Type 2
+40,pravastatin,40,289,379,90,Medication Period-High Blood Cholestrol
+40,pravastatin,40,385,475,90,Medication Period-High Blood Cholestrol
+40,pravastatin,40,589,679,90,Medication Period-High Blood Cholestrol
+41,losartan,50,-8,82,90,Medication Period-Hyper Tension
+41,losartan,50,179,269,90,Medication Period-Hyper Tension
+41,losartan,50,359,449,90,Medication Period-Hyper Tension
+41,losartan,50,481,571,90,Medication Period-Hyper Tension
+41,metformin,500,-13,17,30,Medication Period-Diabetes Type 2
+41,metformin,500,202,232,30,Medication Period-Diabetes Type 2
+41,metformin,500,413,443,30,Medication Period-Diabetes Type 2
+41,metformin,500,481,511,30,Medication Period-Diabetes Type 2
+41,metformin,500,622,652,30,Medication Period-Diabetes Type 2
+41,simvastatin,40,0,90,90,Medication Period-High Blood Cholestrol
+41,simvastatin,40,204,294,90,Medication Period-High Blood Cholestrol
+41,simvastatin,40,384,474,90,Medication Period-High Blood Cholestrol
+41,simvastatin,40,562,652,90,Medication Period-High Blood Cholestrol
+42,losartan,50,20,110,90,Medication Period-Hyper Tension
+42,losartan,50,447,537,90,Medication Period-Hyper Tension
+42,metformin,2000,20,110,90,Medication Period-Diabetes Type 2
+42,metformin,2000,447,537,90,Medication Period-Diabetes Type 2
+43,carvedilol,25,190,280,90,Medication Period-Hyper Tension
+43,carvedilol,25,372,462,90,Medication Period-Hyper Tension
+43,carvedilol,50,573,603,30,Medication Period-Hyper Tension
+43,carvedilol,50,600,630,30,Medication Period-Hyper Tension
+43,carvedilol,6.25,628,658,30,Medication Period-Hyper Tension
+44,pravastatin,20,26,116,90,Medication Period-High Blood Cholestrol
+44,pravastatin,20,143,233,90,Medication Period-High Blood Cholestrol
+44,pravastatin,20,262,322,60,Medication Period-High Blood Cholestrol
+44,pravastatin,20,348,438,90,Medication Period-High Blood Cholestrol
+44,pravastatin,20,462,552,90,Medication Period-High Blood Cholestrol
+44,pravastatin,20,574,604,30,Medication Period-High Blood Cholestrol
+45,atenolol,50,34,124,90,Medication Period-Hyper Tension
+45,atenolol,50,35,125,90,Medication Period-Hyper Tension
+45,atenolol,50,107,197,90,Medication Period-Hyper Tension
+45,atenolol,50,205,295,90,Medication Period-Hyper Tension
+45,atenolol,50,299,389,90,Medication Period-Hyper Tension
+45,atenolol,50,344,434,90,Medication Period-Hyper Tension
+45,atenolol,50,406,496,90,Medication Period-Hyper Tension
+45,atorvastatin,20,205,295,90,Medication Period-High Blood Cholestrol
+45,atorvastatin,20,299,389,90,Medication Period-High Blood Cholestrol
+45,atorvastatin,20,344,434,90,Medication Period-High Blood Cholestrol
+45,atorvastatin,20,406,496,90,Medication Period-High Blood Cholestrol
+45,metformin,2000,205,295,90,Medication Period-Diabetes Type 2
+45,metformin,2000,299,389,90,Medication Period-Diabetes Type 2
+45,metformin,1700,327,417,90,Medication Period-Diabetes Type 2
+45,metformin,2000,344,434,90,Medication Period-Diabetes Type 2
+45,metformin,1700,406,496,90,Medication Period-Diabetes Type 2
+46,atorvastatin,80,20,170,150,Medication Period-High Blood Cholestrol
+46,atorvastatin,20,405,585,180,Medication Period-High Blood Cholestrol
+46,atorvastatin,40,505,535,30,Medication Period-High Blood Cholestrol
+46,atorvastatin,20,505,535,30,Medication Period-High Blood Cholestrol
+46,atorvastatin,40,658,688,30,Medication Period-High Blood Cholestrol
+46,carvedilol,12.5,20,50,30,Medication Period-Hyper Tension
+46,carvedilol,12.5,405,435,30,Medication Period-Hyper Tension
+46,carvedilol,12.5,658,688,30,Medication Period-Hyper Tension
+46,simvastatin,40,20,50,30,Medication Period-High Blood Cholestrol
+46,simvastatin,40,405,435,30,Medication Period-High Blood Cholestrol
+47,atorvastatin,20,67,157,90,Medication Period-High Blood Cholestrol
+47,atorvastatin,20,232,322,90,Medication Period-High Blood Cholestrol
+47,atorvastatin,20,429,519,90,Medication Period-High Blood Cholestrol
+47,olmesartan,40,40,130,90,Medication Period-Hyper Tension
+47,olmesartan,40,138,168,30,Medication Period-Hyper Tension
+47,olmesartan,40,141,171,30,Medication Period-Hyper Tension
+47,olmesartan,40,201,231,30,Medication Period-Hyper Tension
+47,olmesartan,40,232,262,30,Medication Period-Hyper Tension
+47,olmesartan,40,344,374,30,Medication Period-Hyper Tension
+47,olmesartan,40,344,374,30,Medication Period-Hyper Tension
+48,metformin,1000,126,216,90,Medication Period-Diabetes Type 2
+48,metformin,1000,471,561,90,Medication Period-Diabetes Type 2
+48,simvastatin,40,282,372,90,Medication Period-High Blood Cholestrol
+48,simvastatin,40,577,667,90,Medication Period-High Blood Cholestrol
+48,simvastatin,20,577,667,90,Medication Period-High Blood Cholestrol
+49,canagliflozin,300,588,618,30,Medication Period-Diabetes Type 2
+49,canagliflozin,300,602,692,90,Medication Period-Diabetes Type 2
+49,dapagliflozin,10,588,618,30,Medication Period-Diabetes Type 2
+49,metformin,1000,160,250,90,Medication Period-Diabetes Type 2
+49,metformin,500,160,250,90,Medication Period-Diabetes Type 2
+49,metformin,500,237,327,90,Medication Period-Diabetes Type 2
+49,metformin,500,534,624,90,Medication Period-Diabetes Type 2
+49,rosuvastatin,40,15,105,90,Medication Period-High Blood Cholestrol
+49,rosuvastatin,40,397,487,90,Medication Period-High Blood Cholestrol
+49,rosuvastatin,20,397,487,90,Medication Period-High Blood Cholestrol
+50,atenolol,100,37,127,90,Medication Period-Hyper Tension
+50,atenolol,100,41,131,90,Medication Period-Hyper Tension
+50,atenolol,100,208,298,90,Medication Period-Hyper Tension
+50,atenolol,100,210,300,90,Medication Period-Hyper Tension
+50,atenolol,100,289,379,90,Medication Period-Hyper Tension
+50,atenolol,100,290,380,90,Medication Period-Hyper Tension
+50,atenolol,100,441,471,30,Medication Period-Hyper Tension
+50,atenolol,100,444,474,30,Medication Period-Hyper Tension
+50,atenolol,100,464,554,90,Medication Period-Hyper Tension
+50,atenolol,100,469,559,90,Medication Period-Hyper Tension
+50,atenolol,100,554,644,90,Medication Period-Hyper Tension
+50,losartan,100,37,127,90,Medication Period-Hyper Tension
+50,losartan,100,41,131,90,Medication Period-Hyper Tension
+50,losartan,100,289,379,90,Medication Period-Hyper Tension
+50,losartan,100,290,380,90,Medication Period-Hyper Tension
+50,losartan,100,441,471,30,Medication Period-Hyper Tension
+50,losartan,100,444,474,30,Medication Period-Hyper Tension
+50,losartan,100,464,554,90,Medication Period-Hyper Tension
+50,losartan,100,469,559,90,Medication Period-Hyper Tension
+50,losartan,100,554,644,90,Medication Period-Hyper Tension
+50,simvastatin,40,37,127,90,Medication Period-High Blood Cholestrol
+50,simvastatin,40,41,131,90,Medication Period-High Blood Cholestrol
+50,simvastatin,40,208,298,90,Medication Period-High Blood Cholestrol
+50,simvastatin,40,210,300,90,Medication Period-High Blood Cholestrol
+50,simvastatin,40,289,379,90,Medication Period-High Blood Cholestrol
+50,simvastatin,40,290,380,90,Medication Period-High Blood Cholestrol
+50,simvastatin,40,441,471,30,Medication Period-High Blood Cholestrol
+50,simvastatin,40,444,474,30,Medication Period-High Blood Cholestrol
+50,simvastatin,40,464,554,90,Medication Period-High Blood Cholestrol
+50,simvastatin,40,469,559,90,Medication Period-High Blood Cholestrol
+50,simvastatin,40,554,644,90,Medication Period-High Blood Cholestrol
+52,metformin,2000,0,30,30,Medication Period-Diabetes Type 2
+52,metformin,2000,196,286,90,Medication Period-Diabetes Type 2
+52,metformin,2000,384,474,90,Medication Period-Diabetes Type 2
+52,metformin,2000,510,600,90,Medication Period-Diabetes Type 2
+52,simvastatin,40,0,90,90,Medication Period-High Blood Cholestrol
+52,simvastatin,40,196,286,90,Medication Period-High Blood Cholestrol
+52,simvastatin,40,384,474,90,Medication Period-High Blood Cholestrol
+53,metformin,500,0,90,90,Medication Period-Diabetes Type 2
+53,metformin,1000,42,132,90,Medication Period-Diabetes Type 2
+53,metformin,1000,57,147,90,Medication Period-Diabetes Type 2
+53,metformin,1000,113,203,90,Medication Period-Diabetes Type 2
+53,metoprolol,25,0,30,30,Medication Period-Hyper Tension
+53,metoprolol,25,42,72,30,Medication Period-Hyper Tension
+53,metoprolol,25,385,415,30,Medication Period-Hyper Tension
+53,rosuvastatin,10,0,84,84,Medication Period-High Blood Cholestrol
+53,rosuvastatin,10,215,299,84,Medication Period-High Blood Cholestrol
+53,rosuvastatin,10,487,607,120,Medication Period-High Blood Cholestrol
+53,rosuvastatin,10,526,634,108,Medication Period-High Blood Cholestrol
+54,atorvastatin,20,639,669,30,Medication Period-High Blood Cholestrol
+55,metformin,500,188,218,30,Medication Period-Diabetes Type 2
+55,metformin,500,189,279,90,Medication Period-Diabetes Type 2
+55,metoprolol,25,109,139,30,Medication Period-Hyper Tension
+55,simvastatin,5,661,691,30,Medication Period-High Blood Cholestrol
+56,simvastatin,20,20,110,90,Medication Period-High Blood Cholestrol
+56,simvastatin,20,349,439,90,Medication Period-High Blood Cholestrol
+56,simvastatin,20,441,531,90,Medication Period-High Blood Cholestrol
+56,simvastatin,20,535,625,90,Medication Period-High Blood Cholestrol
+57,metformin,500,7,97,90,Medication Period-Diabetes Type 2
+57,metformin,500,133,223,90,Medication Period-Diabetes Type 2
+57,metformin,500,372,462,90,Medication Period-Diabetes Type 2
+57,metformin,500,567,597,30,Medication Period-Diabetes Type 2
+57,metformin,500,630,660,30,Medication Period-Diabetes Type 2
+58,irbesartan,150,0,90,90,Medication Period-Hyper Tension
+58,irbesartan,150,42,132,90,Medication Period-Hyper Tension
+58,metformin,2000,42,132,90,Medication Period-Diabetes Type 2
+58,metformin,2000,369,459,90,Medication Period-Diabetes Type 2
+58,pravastatin,40,0,270,270,Medication Period-High Blood Cholestrol
+58,pravastatin,40,369,639,270,Medication Period-High Blood Cholestrol
+58,valsartan,160,369,459,90,Medication Period-Hyper Tension
+59,losartan,50,290,320,30,Medication Period-Hyper Tension
+59,losartan,50,297,327,30,Medication Period-Hyper Tension
+59,losartan,50,410,440,30,Medication Period-Hyper Tension
+59,losartan,100,533,563,30,Medication Period-Hyper Tension
+59,losartan,100,623,653,30,Medication Period-Hyper Tension
+59,lovastatin,40,214,304,90,Medication Period-High Blood Cholestrol
+59,lovastatin,40,371,461,90,Medication Period-High Blood Cholestrol
+59,metformin,500,238,268,30,Medication Period-Diabetes Type 2
+59,metformin,500,371,431,60,Medication Period-Diabetes Type 2
+59,metformin,500,448,478,30,Medication Period-Diabetes Type 2
+59,metformin,500,508,538,30,Medication Period-Diabetes Type 2
+59,metformin,500,533,563,30,Medication Period-Diabetes Type 2
+59,simvastatin,40,371,401,30,Medication Period-High Blood Cholestrol
+59,simvastatin,40,577,607,30,Medication Period-High Blood Cholestrol
+60,simvastatin,40,38,128,90,Medication Period-High Blood Cholestrol
+60,simvastatin,40,466,496,30,Medication Period-High Blood Cholestrol
+60,simvastatin,40,478,568,90,Medication Period-High Blood Cholestrol
+61,losartan,100,457,547,90,Medication Period-Hyper Tension
+61,simvastatin,10,115,145,30,Medication Period-High Blood Cholestrol
+61,simvastatin,10,133,163,30,Medication Period-High Blood Cholestrol
+61,simvastatin,10,488,578,90,Medication Period-High Blood Cholestrol
+61,telmisartan,80,457,547,90,Medication Period-Hyper Tension
+62,atorvastatin,20,25,55,30,Medication Period-High Blood Cholestrol
+62,atorvastatin,20,109,139,30,Medication Period-High Blood Cholestrol
+62,atorvastatin,20,526,556,30,Medication Period-High Blood Cholestrol
+63,metformin,500,141,171,30,Medication Period-Diabetes Type 2
+63,metformin,500,168,198,30,Medication Period-Diabetes Type 2
+63,metformin,500,294,324,30,Medication Period-Diabetes Type 2
+63,metformin,500,330,360,30,Medication Period-Diabetes Type 2
+63,metformin,500,506,536,30,Medication Period-Diabetes Type 2
+64,rosuvastatin,20,11,101,90,Medication Period-High Blood Cholestrol
+64,rosuvastatin,20,522,612,90,Medication Period-High Blood Cholestrol
+64,rosuvastatin,20,561,651,90,Medication Period-High Blood Cholestrol
+65,metformin,500,0,30,30,Medication Period-Diabetes Type 2
+65,metformin,500,1,31,30,Medication Period-Diabetes Type 2
+65,metformin,500,33,63,30,Medication Period-Diabetes Type 2
+65,metformin,500,152,182,30,Medication Period-Diabetes Type 2
+65,metformin,500,153,183,30,Medication Period-Diabetes Type 2
+65,metformin,500,180,210,30,Medication Period-Diabetes Type 2
+65,metformin,500,181,211,30,Medication Period-Diabetes Type 2
+65,metformin,1000,181,211,30,Medication Period-Diabetes Type 2
+65,metformin,1000,300,420,120,Medication Period-Diabetes Type 2
+65,metformin,1000,391,451,60,Medication Period-Diabetes Type 2
+65,metformin,1000,446,506,60,Medication Period-Diabetes Type 2
+65,metformin,500,447,477,30,Medication Period-Diabetes Type 2
+65,metformin,500,470,500,30,Medication Period-Diabetes Type 2
+65,metformin,1000,509,689,180,Medication Period-Diabetes Type 2
+65,metformin,500,523,553,30,Medication Period-Diabetes Type 2
+66,atorvastatin,20,409,499,90,Medication Period-High Blood Cholestrol
+66,atorvastatin,20,411,501,90,Medication Period-High Blood Cholestrol
+67,atorvastatin,40,21,111,90,Medication Period-High Blood Cholestrol
+67,atorvastatin,40,207,297,90,Medication Period-High Blood Cholestrol
+67,atorvastatin,40,208,358,150,Medication Period-High Blood Cholestrol
+67,atorvastatin,40,214,364,150,Medication Period-High Blood Cholestrol
+67,atorvastatin,40,389,419,30,Medication Period-High Blood Cholestrol
+67,atorvastatin,40,448,478,30,Medication Period-High Blood Cholestrol
+67,atorvastatin,40,631,661,30,Medication Period-High Blood Cholestrol
+67,atorvastatin,40,633,663,30,Medication Period-High Blood Cholestrol
+67,bisoprolol,5,497,587,90,Medication Period-Hyper Tension
+67,metformin,500,121,151,30,Medication Period-Diabetes Type 2
+67,metformin,500,123,183,60,Medication Period-Diabetes Type 2
+67,metformin,500,124,244,120,Medication Period-Diabetes Type 2
+67,metformin,500,216,396,180,Medication Period-Diabetes Type 2
+67,metformin,500,217,397,180,Medication Period-Diabetes Type 2
+67,metformin,500,337,457,120,Medication Period-Diabetes Type 2
+67,metformin,500,339,459,120,Medication Period-Diabetes Type 2
+67,metformin,500,424,454,30,Medication Period-Diabetes Type 2
+67,metformin,500,543,573,30,Medication Period-Diabetes Type 2
+67,metformin,500,658,688,30,Medication Period-Diabetes Type 2
+68,atorvastatin,40,68,98,30,Medication Period-High Blood Cholestrol
+68,atorvastatin,40,445,475,30,Medication Period-High Blood Cholestrol
+68,atorvastatin,40,500,590,90,Medication Period-High Blood Cholestrol
+68,metformin,1000,68,98,30,Medication Period-Diabetes Type 2
+68,metformin,1000,444,474,30,Medication Period-Diabetes Type 2
+68,metformin,1000,449,479,30,Medication Period-Diabetes Type 2
+68,metformin,1000,500,590,90,Medication Period-Diabetes Type 2
+68,simvastatin,20,68,98,30,Medication Period-High Blood Cholestrol
+68,simvastatin,20,174,204,30,Medication Period-High Blood Cholestrol
+68,simvastatin,20,175,205,30,Medication Period-High Blood Cholestrol
+68,simvastatin,20,278,308,30,Medication Period-High Blood Cholestrol
+68,simvastatin,20,388,418,30,Medication Period-High Blood Cholestrol
+69,metformin,2000,85,115,30,Medication Period-Diabetes Type 2
+69,metformin,2000,106,196,90,Medication Period-Diabetes Type 2
+69,metformin,2000,468,558,90,Medication Period-Diabetes Type 2
+69,rosuvastatin,10,85,115,30,Medication Period-High Blood Cholestrol
+69,rosuvastatin,10,468,558,90,Medication Period-High Blood Cholestrol
+70,atenolol,50,0,90,90,Medication Period-Hyper Tension
+70,atenolol,50,145,235,90,Medication Period-Hyper Tension
+70,atenolol,50,224,314,90,Medication Period-Hyper Tension
+70,atenolol,50,302,392,90,Medication Period-Hyper Tension
+70,atenolol,50,392,482,90,Medication Period-Hyper Tension
+70,atenolol,50,471,561,90,Medication Period-Hyper Tension
+70,atenolol,50,476,566,90,Medication Period-Hyper Tension
+70,atenolol,50,603,693,90,Medication Period-Hyper Tension
+70,atorvastatin,20,193,194,1,Medication Period-High Blood Cholestrol
+70,atorvastatin,20,226,227,1,Medication Period-High Blood Cholestrol
+70,atorvastatin,10,226,316,90,Medication Period-High Blood Cholestrol
+70,atorvastatin,20,228,229,1,Medication Period-High Blood Cholestrol
+70,atorvastatin,10,386,476,90,Medication Period-High Blood Cholestrol
+71,losartan,100,51,141,90,Medication Period-Hyper Tension
+71,losartan,25,266,356,90,Medication Period-Hyper Tension
+71,losartan,100,426,516,90,Medication Period-Hyper Tension
+71,metoprolol,100,241,331,90,Medication Period-Hyper Tension
+71,metoprolol,100,266,311,45,Medication Period-Hyper Tension
+71,metoprolol,100,512,602,90,Medication Period-Hyper Tension
+71,simvastatin,40,241,331,90,Medication Period-High Blood Cholestrol
+71,simvastatin,40,512,602,90,Medication Period-High Blood Cholestrol
+71,simvastatin,40,594,684,90,Medication Period-High Blood Cholestrol
+72,metoprolol,100,-1,89,90,Medication Period-Hyper Tension
+72,metoprolol,100,173,263,90,Medication Period-Hyper Tension
+72,metoprolol,100,237,327,90,Medication Period-Hyper Tension
+72,metoprolol,100,448,538,90,Medication Period-Hyper Tension
+72,simvastatin,40,-1,89,90,Medication Period-High Blood Cholestrol
+72,simvastatin,40,173,263,90,Medication Period-High Blood Cholestrol
+72,simvastatin,40,237,327,90,Medication Period-High Blood Cholestrol
+72,simvastatin,40,448,538,90,Medication Period-High Blood Cholestrol
+73,pravastatin,40,83,173,90,Medication Period-High Blood Cholestrol
+73,pravastatin,40,193,283,90,Medication Period-High Blood Cholestrol
+73,pravastatin,40,194,284,90,Medication Period-High Blood Cholestrol
+73,pravastatin,40,295,385,90,Medication Period-High Blood Cholestrol
+73,pravastatin,40,469,559,90,Medication Period-High Blood Cholestrol
+73,pravastatin,40,470,560,90,Medication Period-High Blood Cholestrol
+73,pravastatin,40,562,652,90,Medication Period-High Blood Cholestrol
+74,atorvastatin,40,252,342,90,Medication Period-High Blood Cholestrol
+74,metformin,500,252,342,90,Medication Period-Diabetes Type 2
+74,metoprolol,50,252,342,90,Medication Period-Hyper Tension
+75,atorvastatin,20,9,39,30,Medication Period-High Blood Cholestrol
+75,atorvastatin,20,43,73,30,Medication Period-High Blood Cholestrol
+75,atorvastatin,20,62,92,30,Medication Period-High Blood Cholestrol
+75,atorvastatin,20,198,228,30,Medication Period-High Blood Cholestrol
+75,atorvastatin,20,373,403,30,Medication Period-High Blood Cholestrol
+75,atorvastatin,20,545,575,30,Medication Period-High Blood Cholestrol
+75,atorvastatin,20,549,639,90,Medication Period-High Blood Cholestrol
+75,atorvastatin,20,644,674,30,Medication Period-High Blood Cholestrol
+76,pravastatin,20,232,322,90,Medication Period-High Blood Cholestrol
+76,pravastatin,20,323,413,90,Medication Period-High Blood Cholestrol
+76,pravastatin,20,417,507,90,Medication Period-High Blood Cholestrol
+76,pravastatin,20,509,599,90,Medication Period-High Blood Cholestrol
+76,pravastatin,20,588,678,90,Medication Period-High Blood Cholestrol
+77,metformin,500,48,78,30,Medication Period-Diabetes Type 2
+77,metformin,500,375,405,30,Medication Period-Diabetes Type 2
+77,metformin,500,376,406,30,Medication Period-Diabetes Type 2
+77,metformin,500,445,475,30,Medication Period-Diabetes Type 2
+77,metformin,500,488,518,30,Medication Period-Diabetes Type 2
+77,metformin,500,517,547,30,Medication Period-Diabetes Type 2
+77,metformin,500,549,579,30,Medication Period-Diabetes Type 2
+77,metformin,500,606,636,30,Medication Period-Diabetes Type 2
+77,simvastatin,40,125,155,30,Medication Period-High Blood Cholestrol
+77,simvastatin,40,311,341,30,Medication Period-High Blood Cholestrol
+77,simvastatin,40,495,525,30,Medication Period-High Blood Cholestrol
+77,simvastatin,40,528,558,30,Medication Period-High Blood Cholestrol
+78,losartan,100,468,558,90,Medication Period-Hyper Tension
+78,metoprolol,50,145,235,90,Medication Period-Hyper Tension
+79,losartan,100,0,90,90,Medication Period-Hyper Tension
+79,losartan,100,1,91,90,Medication Period-Hyper Tension
+79,losartan,100,173,263,90,Medication Period-Hyper Tension
+79,losartan,100,350,440,90,Medication Period-Hyper Tension
+79,losartan,100,529,619,90,Medication Period-Hyper Tension
+79,losartan,100,535,625,90,Medication Period-Hyper Tension
+79,losartan,100,596,686,90,Medication Period-Hyper Tension
+79,losartan,100,601,691,90,Medication Period-Hyper Tension
+79,metformin,500,1,181,180,Medication Period-Diabetes Type 2
+79,metformin,500,3,183,180,Medication Period-Diabetes Type 2
+79,metformin,500,4,184,180,Medication Period-Diabetes Type 2
+79,metformin,500,5,185,180,Medication Period-Diabetes Type 2
+79,metformin,500,182,272,90,Medication Period-Diabetes Type 2
+79,metformin,500,410,590,180,Medication Period-Diabetes Type 2
+79,metformin,500,596,686,90,Medication Period-Diabetes Type 2
+79,metformin,500,601,691,90,Medication Period-Diabetes Type 2
+79,simvastatin,40,1,91,90,Medication Period-High Blood Cholestrol
+79,simvastatin,40,4,94,90,Medication Period-High Blood Cholestrol
+79,simvastatin,40,182,272,90,Medication Period-High Blood Cholestrol
+79,simvastatin,40,374,464,90,Medication Period-High Blood Cholestrol
+79,simvastatin,40,571,661,90,Medication Period-High Blood Cholestrol
+79,simvastatin,40,596,686,90,Medication Period-High Blood Cholestrol
+79,simvastatin,40,601,691,90,Medication Period-High Blood Cholestrol
+80,metoprolol,50,0,90,90,Medication Period-Hyper Tension
+80,metoprolol,50,243,333,90,Medication Period-Hyper Tension
+80,metoprolol,50,245,335,90,Medication Period-Hyper Tension
+80,metoprolol,50,417,507,90,Medication Period-Hyper Tension
+80,rosuvastatin,10,0,90,90,Medication Period-High Blood Cholestrol
+80,rosuvastatin,10,243,333,90,Medication Period-High Blood Cholestrol
+80,rosuvastatin,10,417,507,90,Medication Period-High Blood Cholestrol
+81,atorvastatin,20,0,90,90,Medication Period-High Blood Cholestrol
+81,atorvastatin,20,116,206,90,Medication Period-High Blood Cholestrol
+81,atorvastatin,20,207,297,90,Medication Period-High Blood Cholestrol
+81,atorvastatin,20,270,360,90,Medication Period-High Blood Cholestrol
+81,atorvastatin,20,382,472,90,Medication Period-High Blood Cholestrol
+81,atorvastatin,20,550,640,90,Medication Period-High Blood Cholestrol
+81,atorvastatin,20,551,641,90,Medication Period-High Blood Cholestrol
+81,metformin,500,0,90,90,Medication Period-Diabetes Type 2
+81,metformin,500,116,206,90,Medication Period-Diabetes Type 2
+81,metformin,500,207,297,90,Medication Period-Diabetes Type 2
+81,metformin,500,270,360,90,Medication Period-Diabetes Type 2
+81,metformin,500,382,472,90,Medication Period-Diabetes Type 2
+81,metformin,500,504,514,10,Medication Period-Diabetes Type 2
+81,metformin,500,567,657,90,Medication Period-Diabetes Type 2
+81,metoprolol,50,0,90,90,Medication Period-Hyper Tension
+81,metoprolol,50,116,206,90,Medication Period-Hyper Tension
+81,metoprolol,50,207,297,90,Medication Period-Hyper Tension
+81,metoprolol,50,270,360,90,Medication Period-Hyper Tension
+81,metoprolol,50,382,472,90,Medication Period-Hyper Tension
+81,metoprolol,50,550,640,90,Medication Period-Hyper Tension
+81,metoprolol,50,551,641,90,Medication Period-Hyper Tension
+82,atenolol,50,64,334,270,Medication Period-Hyper Tension
+82,atenolol,50,282,342,60,Medication Period-Hyper Tension
+82,atenolol,50,341,401,60,Medication Period-Hyper Tension
+82,atenolol,50,555,645,90,Medication Period-Hyper Tension
+82,simvastatin,40,173,263,90,Medication Period-High Blood Cholestrol
+82,simvastatin,40,354,444,90,Medication Period-High Blood Cholestrol
+83,atorvastatin,40,29,119,90,Medication Period-High Blood Cholestrol
+83,atorvastatin,20,29,119,90,Medication Period-High Blood Cholestrol
+83,atorvastatin,20,206,296,90,Medication Period-High Blood Cholestrol
+83,canagliflozin,100,581,671,90,Medication Period-Diabetes Type 2
+83,canagliflozin,300,583,673,90,Medication Period-Diabetes Type 2
+83,canagliflozin,100,583,673,90,Medication Period-Diabetes Type 2
+83,metformin,2000,29,119,90,Medication Period-Diabetes Type 2
+83,metformin,2000,206,296,90,Medication Period-Diabetes Type 2
+83,metformin,2000,381,471,90,Medication Period-Diabetes Type 2
+83,metformin,2000,581,671,90,Medication Period-Diabetes Type 2
+83,rosuvastatin,40,206,296,90,Medication Period-High Blood Cholestrol
+83,rosuvastatin,40,381,471,90,Medication Period-High Blood Cholestrol
+83,rosuvastatin,40,563,593,30,Medication Period-High Blood Cholestrol
+83,rosuvastatin,40,581,611,30,Medication Period-High Blood Cholestrol
+83,rosuvastatin,40,602,662,60,Medication Period-High Blood Cholestrol
+83,rosuvastatin,40,603,663,60,Medication Period-High Blood Cholestrol
+83,rosuvastatin,40,604,694,90,Medication Period-High Blood Cholestrol
+84,labetalol,600,45,75,30,Medication Period-Hyper Tension
+84,labetalol,600,225,315,90,Medication Period-Hyper Tension
+84,labetalol,600,226,316,90,Medication Period-Hyper Tension
+84,labetalol,600,408,438,30,Medication Period-Hyper Tension
+84,labetalol,600,589,679,90,Medication Period-Hyper Tension
+86,canagliflozin,300,557,587,30,Medication Period-Diabetes Type 2
+86,metformin,1000,7,37,30,Medication Period-Diabetes Type 2
+86,metformin,1000,32,62,30,Medication Period-Diabetes Type 2
+86,metformin,1000,68,98,30,Medication Period-Diabetes Type 2
+86,metformin,1000,126,156,30,Medication Period-Diabetes Type 2
+86,metformin,1000,144,174,30,Medication Period-Diabetes Type 2
+86,metformin,1000,156,186,30,Medication Period-Diabetes Type 2
+86,metformin,1000,188,218,30,Medication Period-Diabetes Type 2
+86,metformin,1000,217,247,30,Medication Period-Diabetes Type 2
+86,metformin,1000,245,275,30,Medication Period-Diabetes Type 2
+86,metformin,1000,277,307,30,Medication Period-Diabetes Type 2
+86,metformin,1000,370,400,30,Medication Period-Diabetes Type 2
+86,metformin,1000,405,435,30,Medication Period-Diabetes Type 2
+86,metformin,1000,463,493,30,Medication Period-Diabetes Type 2
+86,metformin,1000,467,497,30,Medication Period-Diabetes Type 2
+86,metformin,1000,494,524,30,Medication Period-Diabetes Type 2
+86,metformin,1000,527,557,30,Medication Period-Diabetes Type 2
+86,metformin,1000,554,584,30,Medication Period-Diabetes Type 2
+86,metformin,1000,557,587,30,Medication Period-Diabetes Type 2
+86,valsartan,320,32,167,135,Medication Period-Hyper Tension
+86,valsartan,320,144,279,135,Medication Period-Hyper Tension
+86,valsartan,320,192,327,135,Medication Period-Hyper Tension
+86,valsartan,320,508,553,45,Medication Period-Hyper Tension
+88,atenolol,50,309,399,90,Medication Period-Hyper Tension
+88,metformin,2000,22,112,90,Medication Period-Diabetes Type 2
+88,metformin,2000,383,473,90,Medication Period-Diabetes Type 2
+88,simvastatin,20,40,130,90,Medication Period-High Blood Cholestrol
+88,simvastatin,20,113,203,90,Medication Period-High Blood Cholestrol
+88,simvastatin,20,435,525,90,Medication Period-High Blood Cholestrol
+88,telmisartan,80,309,399,90,Medication Period-Hyper Tension
+89,simvastatin,10,2,92,90,Medication Period-High Blood Cholestrol
+89,simvastatin,10,112,202,90,Medication Period-High Blood Cholestrol
+89,simvastatin,10,156,246,90,Medication Period-High Blood Cholestrol
+89,simvastatin,10,574,664,90,Medication Period-High Blood Cholestrol
+90,atorvastatin,20,0,90,90,Medication Period-High Blood Cholestrol
+90,atorvastatin,20,20,110,90,Medication Period-High Blood Cholestrol
+90,atorvastatin,20,138,228,90,Medication Period-High Blood Cholestrol
+90,atorvastatin,20,139,229,90,Medication Period-High Blood Cholestrol
+90,atorvastatin,20,223,253,30,Medication Period-High Blood Cholestrol
+90,atorvastatin,20,286,376,90,Medication Period-High Blood Cholestrol
+90,atorvastatin,20,377,467,90,Medication Period-High Blood Cholestrol
+90,atorvastatin,20,447,537,90,Medication Period-High Blood Cholestrol
+92,atorvastatin,40,0,270,270,Medication Period-High Blood Cholestrol
+92,atorvastatin,40,354,444,90,Medication Period-High Blood Cholestrol
+92,atorvastatin,40,509,599,90,Medication Period-High Blood Cholestrol
+92,losartan,100,0,90,90,Medication Period-Hyper Tension
+92,losartan,100,376,466,90,Medication Period-Hyper Tension
+92,metformin,500,0,540,540,Medication Period-Diabetes Type 2
+94,atorvastatin,10,94,184,90,Medication Period-High Blood Cholestrol
+94,atorvastatin,10,221,311,90,Medication Period-High Blood Cholestrol
+94,atorvastatin,10,374,464,90,Medication Period-High Blood Cholestrol
+94,atorvastatin,10,375,465,90,Medication Period-High Blood Cholestrol
+94,atorvastatin,10,425,455,30,Medication Period-High Blood Cholestrol
+94,losartan,50,104,194,90,Medication Period-Hyper Tension
+94,losartan,50,287,377,90,Medication Period-Hyper Tension
+94,losartan,50,288,378,90,Medication Period-Hyper Tension
+94,losartan,50,403,433,30,Medication Period-Hyper Tension
+94,losartan,50,425,455,30,Medication Period-Hyper Tension
+94,metformin,850,160,250,90,Medication Period-Diabetes Type 2
+94,metformin,850,389,419,30,Medication Period-Diabetes Type 2
+94,metformin,850,402,432,30,Medication Period-Diabetes Type 2
+94,metformin,850,425,455,30,Medication Period-Diabetes Type 2
+94,metformin,850,661,691,30,Medication Period-Diabetes Type 2
+95,atorvastatin,40,23,113,90,Medication Period-High Blood Cholestrol
+95,atorvastatin,40,127,217,90,Medication Period-High Blood Cholestrol
+95,atorvastatin,40,341,431,90,Medication Period-High Blood Cholestrol
+95,atorvastatin,40,352,442,90,Medication Period-High Blood Cholestrol
+95,atorvastatin,40,470,560,90,Medication Period-High Blood Cholestrol
+95,metformin,750,12,42,30,Medication Period-Diabetes Type 2
+95,metformin,750,23,53,30,Medication Period-Diabetes Type 2
+95,metformin,750,106,136,30,Medication Period-Diabetes Type 2
+95,metformin,750,117,207,90,Medication Period-Diabetes Type 2
+95,metformin,750,127,217,90,Medication Period-Diabetes Type 2
+95,metformin,750,352,442,90,Medication Period-Diabetes Type 2
+95,metformin,750,470,560,90,Medication Period-Diabetes Type 2
+97,metformin,500,15,45,30,Medication Period-Diabetes Type 2
+97,metformin,500,42,72,30,Medication Period-Diabetes Type 2
+97,metformin,500,71,101,30,Medication Period-Diabetes Type 2
+97,metformin,500,74,104,30,Medication Period-Diabetes Type 2
+97,metformin,500,260,290,30,Medication Period-Diabetes Type 2
+97,metformin,500,465,495,30,Medication Period-Diabetes Type 2
+97,simvastatin,80,74,104,30,Medication Period-High Blood Cholestrol
+97,simvastatin,80,406,436,30,Medication Period-High Blood Cholestrol
+97,simvastatin,80,587,617,30,Medication Period-High Blood Cholestrol
+98,pravastatin,40,40,130,90,Medication Period-High Blood Cholestrol
+98,pravastatin,40,222,312,90,Medication Period-High Blood Cholestrol
+98,pravastatin,40,308,398,90,Medication Period-High Blood Cholestrol
+98,pravastatin,40,333,423,90,Medication Period-High Blood Cholestrol
+98,pravastatin,40,335,425,90,Medication Period-High Blood Cholestrol
+98,pravastatin,40,413,503,90,Medication Period-High Blood Cholestrol
+99,atorvastatin,40,454,544,90,Medication Period-High Blood Cholestrol
+99,simvastatin,40,454,544,90,Medication Period-High Blood Cholestrol
+100,atorvastatin,10,53,143,90,Medication Period-High Blood Cholestrol
+100,atorvastatin,40,53,143,90,Medication Period-High Blood Cholestrol
+100,losartan,100,73,223,150,Medication Period-Hyper Tension
+100,olmesartan,40,73,163,90,Medication Period-Hyper Tension
+100,simvastatin,40,73,163,90,Medication Period-High Blood Cholestrol
+101,atorvastatin,10,5,35,30,Medication Period-High Blood Cholestrol
+101,atorvastatin,10,97,127,30,Medication Period-High Blood Cholestrol
+101,losartan,100,-16,14,30,Medication Period-Hyper Tension
+101,losartan,100,-16,14,30,Medication Period-Hyper Tension
+101,losartan,100,5,35,30,Medication Period-Hyper Tension
+101,losartan,100,5,35,30,Medication Period-Hyper Tension
+101,losartan,100,374,404,30,Medication Period-Hyper Tension
+101,metformin,500,-16,14,30,Medication Period-Diabetes Type 2
+101,metformin,500,41,371,330,Medication Period-Diabetes Type 2
+102,atenolol,25,93,363,270,Medication Period-Hyper Tension
+102,atenolol,25,354,444,90,Medication Period-Hyper Tension
+102,atorvastatin,10,0,270,270,Medication Period-High Blood Cholestrol
+102,atorvastatin,10,49,319,270,Medication Period-High Blood Cholestrol
+102,atorvastatin,20,437,527,90,Medication Period-High Blood Cholestrol
+104,losartan,100,7,37,30,Medication Period-Hyper Tension
+104,losartan,100,189,279,90,Medication Period-Hyper Tension
+104,losartan,100,306,396,90,Medication Period-Hyper Tension
+104,losartan,100,404,494,90,Medication Period-Hyper Tension
+104,metoprolol,100,306,336,30,Medication Period-Hyper Tension
+104,metoprolol,100,404,434,30,Medication Period-Hyper Tension
+104,nebivolol,5,7,157,150,Medication Period-Hyper Tension
+104,nebivolol,10,189,369,180,Medication Period-Hyper Tension
+104,nebivolol,10,293,323,30,Medication Period-Hyper Tension
+104,nebivolol,10,306,336,30,Medication Period-Hyper Tension
+104,simvastatin,40,162,252,90,Medication Period-High Blood Cholestrol
+104,simvastatin,40,189,279,90,Medication Period-High Blood Cholestrol
+104,simvastatin,40,293,323,30,Medication Period-High Blood Cholestrol
+104,simvastatin,40,404,494,90,Medication Period-High Blood Cholestrol
+104,simvastatin,40,452,542,90,Medication Period-High Blood Cholestrol
+105,metoprolol,50,128,158,30,Medication Period-Hyper Tension
+105,metoprolol,50,483,513,30,Medication Period-Hyper Tension
+106,simvastatin,40,77,107,30,Medication Period-High Blood Cholestrol
+106,simvastatin,40,78,108,30,Medication Period-High Blood Cholestrol
+106,simvastatin,40,469,499,30,Medication Period-High Blood Cholestrol
+106,simvastatin,40,470,560,90,Medication Period-High Blood Cholestrol
+107,atenolol,50,0,90,90,Medication Period-Hyper Tension
+107,atenolol,50,194,284,90,Medication Period-Hyper Tension
+107,atenolol,50,370,460,90,Medication Period-Hyper Tension
+107,atenolol,50,549,639,90,Medication Period-Hyper Tension
+107,losartan,100,42,72,30,Medication Period-Hyper Tension
+107,metformin,500,0,180,180,Medication Period-Diabetes Type 2
+107,metformin,500,370,550,180,Medication Period-Diabetes Type 2
+108,losartan,100,274,364,90,Medication Period-Hyper Tension
+108,losartan,100,307,397,90,Medication Period-Hyper Tension
+108,simvastatin,80,183,273,90,Medication Period-High Blood Cholestrol
+108,simvastatin,80,274,364,90,Medication Period-High Blood Cholestrol
+108,simvastatin,80,309,399,90,Medication Period-High Blood Cholestrol
+109,losartan,50,234,264,30,Medication Period-Hyper Tension
+109,losartan,50,406,436,30,Medication Period-Hyper Tension
+109,losartan,50,407,437,30,Medication Period-Hyper Tension
+109,losartan,50,435,465,30,Medication Period-Hyper Tension
+110,atorvastatin,40,73,163,90,Medication Period-High Blood Cholestrol
+110,metoprolol,100,0,90,90,Medication Period-Hyper Tension
+111,atenolol,100,67,157,90,Medication Period-Hyper Tension
+111,atorvastatin,40,7,97,90,Medication Period-High Blood Cholestrol
+111,atorvastatin,40,91,181,90,Medication Period-High Blood Cholestrol
+111,atorvastatin,40,417,507,90,Medication Period-High Blood Cholestrol
+112,lovastatin,40,47,77,30,Medication Period-High Blood Cholestrol
+112,lovastatin,40,74,104,30,Medication Period-High Blood Cholestrol
+112,lovastatin,40,319,349,30,Medication Period-High Blood Cholestrol
+113,carvedilol,25,249,339,90,Medication Period-Hyper Tension
+113,nebivolol,20,4,34,30,Medication Period-Hyper Tension
+113,nebivolol,20,244,274,30,Medication Period-Hyper Tension
+113,nebivolol,20,249,279,30,Medication Period-Hyper Tension
+113,pravastatin,80,244,334,90,Medication Period-High Blood Cholestrol
+113,pravastatin,80,599,689,90,Medication Period-High Blood Cholestrol
+113,valsartan,320,4,34,30,Medication Period-Hyper Tension
+113,valsartan,320,244,274,30,Medication Period-Hyper Tension
+113,valsartan,320,452,482,30,Medication Period-Hyper Tension
+114,simvastatin,40,137,167,30,Medication Period-High Blood Cholestrol
+114,simvastatin,40,168,198,30,Medication Period-High Blood Cholestrol
+114,simvastatin,40,329,359,30,Medication Period-High Blood Cholestrol
+114,simvastatin,40,359,389,30,Medication Period-High Blood Cholestrol
+114,simvastatin,40,515,545,30,Medication Period-High Blood Cholestrol
+114,simvastatin,40,526,556,30,Medication Period-High Blood Cholestrol
+115,atorvastatin,40,224,231,7,Medication Period-High Blood Cholestrol
+115,atorvastatin,40,330,337,7,Medication Period-High Blood Cholestrol
+115,losartan,100,481,571,90,Medication Period-Hyper Tension
+115,metformin,500,434,524,90,Medication Period-Diabetes Type 2
+115,metformin,500,511,601,90,Medication Period-Diabetes Type 2
+115,olmesartan,40,111,201,90,Medication Period-Hyper Tension
+115,olmesartan,40,123,153,30,Medication Period-Hyper Tension
+115,olmesartan,40,480,570,90,Medication Period-Hyper Tension
+115,olmesartan,40,481,511,30,Medication Period-Hyper Tension
+116,metformin,500,9,39,30,Medication Period-Diabetes Type 2
+116,metformin,500,235,265,30,Medication Period-Diabetes Type 2
+116,metformin,500,437,467,30,Medication Period-Diabetes Type 2
+116,metformin,500,496,526,30,Medication Period-Diabetes Type 2
+116,metformin,500,548,578,30,Medication Period-Diabetes Type 2
+116,simvastatin,10,4,34,30,Medication Period-High Blood Cholestrol
+116,simvastatin,10,9,39,30,Medication Period-High Blood Cholestrol
+116,simvastatin,20,9,39,30,Medication Period-High Blood Cholestrol
+116,simvastatin,10,102,132,30,Medication Period-High Blood Cholestrol
+116,simvastatin,10,137,167,30,Medication Period-High Blood Cholestrol
+116,simvastatin,20,197,227,30,Medication Period-High Blood Cholestrol
+116,simvastatin,10,235,265,30,Medication Period-High Blood Cholestrol
+116,simvastatin,20,265,295,30,Medication Period-High Blood Cholestrol
+116,simvastatin,20,437,467,30,Medication Period-High Blood Cholestrol
+116,simvastatin,20,647,677,30,Medication Period-High Blood Cholestrol
+117,atorvastatin,20,76,106,30,Medication Period-High Blood Cholestrol
+117,atorvastatin,20,77,107,30,Medication Period-High Blood Cholestrol
+117,atorvastatin,20,248,278,30,Medication Period-High Blood Cholestrol
+117,atorvastatin,20,378,408,30,Medication Period-High Blood Cholestrol
+117,atorvastatin,20,605,635,30,Medication Period-High Blood Cholestrol
+117,metformin,1700,216,246,30,Medication Period-Diabetes Type 2
+117,metformin,1700,248,278,30,Medication Period-Diabetes Type 2
+117,metformin,1700,338,368,30,Medication Period-Diabetes Type 2
+117,metformin,1700,378,468,90,Medication Period-Diabetes Type 2
+117,metformin,1700,535,565,30,Medication Period-Diabetes Type 2
+117,metformin,1700,536,566,30,Medication Period-Diabetes Type 2
+117,metformin,1700,564,594,30,Medication Period-Diabetes Type 2
+117,metformin,1700,593,599,6,Medication Period-Diabetes Type 2
+117,metformin,1700,605,635,30,Medication Period-Diabetes Type 2
+117,metformin,1700,642,672,30,Medication Period-Diabetes Type 2
+117,metformin,1700,643,673,30,Medication Period-Diabetes Type 2
+117,telmisartan,80,76,106,30,Medication Period-Hyper Tension
+117,telmisartan,80,77,107,30,Medication Period-Hyper Tension
+117,telmisartan,80,248,278,30,Medication Period-Hyper Tension
+117,telmisartan,80,378,408,30,Medication Period-Hyper Tension
+117,valsartan,160,378,423,45,Medication Period-Hyper Tension
+117,valsartan,160,433,493,60,Medication Period-Hyper Tension
+117,valsartan,160,434,494,60,Medication Period-Hyper Tension
+117,valsartan,160,593,611,18,Medication Period-Hyper Tension
+117,valsartan,160,612,642,30,Medication Period-Hyper Tension
+117,valsartan,160,620,680,60,Medication Period-Hyper Tension
+118,metoprolol,25,336,426,90,Medication Period-Hyper Tension
+119,atorvastatin,80,4,274,270,Medication Period-High Blood Cholestrol
+119,atorvastatin,80,184,454,270,Medication Period-High Blood Cholestrol
+119,metoprolol,100,136,226,90,Medication Period-Hyper Tension
+119,metoprolol,100,184,187,3,Medication Period-Hyper Tension
+119,metoprolol,100,459,462,3,Medication Period-Hyper Tension
+121,atorvastatin,40,11,101,90,Medication Period-High Blood Cholestrol
+121,atorvastatin,40,193,283,90,Medication Period-High Blood Cholestrol
+121,atorvastatin,40,364,454,90,Medication Period-High Blood Cholestrol
+121,atorvastatin,40,375,465,90,Medication Period-High Blood Cholestrol
+121,atorvastatin,40,523,613,90,Medication Period-High Blood Cholestrol
+121,atorvastatin,40,547,637,90,Medication Period-High Blood Cholestrol
+121,carvedilol,50,10,100,90,Medication Period-Hyper Tension
+121,carvedilol,50,134,224,90,Medication Period-Hyper Tension
+121,carvedilol,50,371,461,90,Medication Period-Hyper Tension
+121,carvedilol,50,459,549,90,Medication Period-Hyper Tension
+121,metformin,1000,11,101,90,Medication Period-Diabetes Type 2
+121,metformin,1000,193,283,90,Medication Period-Diabetes Type 2
+121,metformin,1000,375,465,90,Medication Period-Diabetes Type 2
+121,metformin,1000,547,637,90,Medication Period-Diabetes Type 2
+121,metformin,1000,647,677,30,Medication Period-Diabetes Type 2
+122,atorvastatin,80,275,545,270,Medication Period-High Blood Cholestrol
+122,metformin,1000,275,305,30,Medication Period-Diabetes Type 2
+122,metformin,1000,472,502,30,Medication Period-Diabetes Type 2
+122,metoprolol,50,275,545,270,Medication Period-Hyper Tension
+123,atorvastatin,20,68,158,90,Medication Period-High Blood Cholestrol
+123,atorvastatin,40,110,200,90,Medication Period-High Blood Cholestrol
+123,atorvastatin,40,228,318,90,Medication Period-High Blood Cholestrol
+123,metformin,500,4,94,90,Medication Period-Diabetes Type 2
+123,metformin,500,228,318,90,Medication Period-Diabetes Type 2
+123,rosuvastatin,40,228,258,30,Medication Period-High Blood Cholestrol
+123,rosuvastatin,40,260,350,90,Medication Period-High Blood Cholestrol
+123,rosuvastatin,20,293,383,90,Medication Period-High Blood Cholestrol
+123,rosuvastatin,40,482,617,135,Medication Period-High Blood Cholestrol
+124,simvastatin,20,0,90,90,Medication Period-High Blood Cholestrol
+124,simvastatin,20,30,300,270,Medication Period-High Blood Cholestrol
+124,simvastatin,20,377,467,90,Medication Period-High Blood Cholestrol
+125,atorvastatin,20,461,491,30,Medication Period-High Blood Cholestrol
+125,atorvastatin,20,496,526,30,Medication Period-High Blood Cholestrol
+125,atorvastatin,20,585,615,30,Medication Period-High Blood Cholestrol
+125,losartan,100,59,149,90,Medication Period-Hyper Tension
+125,losartan,100,103,193,90,Medication Period-Hyper Tension
+125,losartan,100,272,362,90,Medication Period-Hyper Tension
+125,losartan,100,332,422,90,Medication Period-Hyper Tension
+125,losartan,100,461,551,90,Medication Period-Hyper Tension
+125,losartan,100,496,586,90,Medication Period-Hyper Tension
+126,simvastatin,20,290,320,30,Medication Period-High Blood Cholestrol
+126,simvastatin,20,335,425,90,Medication Period-High Blood Cholestrol
+126,simvastatin,20,517,607,90,Medication Period-High Blood Cholestrol
+126,simvastatin,20,601,691,90,Medication Period-High Blood Cholestrol
+128,losartan,25,458,548,90,Medication Period-Hyper Tension
+128,losartan,25,547,637,90,Medication Period-Hyper Tension
+128,metformin,1000,167,257,90,Medication Period-Diabetes Type 2
+128,metformin,1000,168,258,90,Medication Period-Diabetes Type 2
+128,metformin,1000,547,637,90,Medication Period-Diabetes Type 2
+129,lovastatin,20,138,258,120,Medication Period-High Blood Cholestrol
+129,lovastatin,20,139,259,120,Medication Period-High Blood Cholestrol
+129,lovastatin,20,294,324,30,Medication Period-High Blood Cholestrol
+129,lovastatin,20,323,353,30,Medication Period-High Blood Cholestrol
+129,lovastatin,20,335,605,270,Medication Period-High Blood Cholestrol
+129,metformin,1000,-2,28,30,Medication Period-Diabetes Type 2
+129,metformin,1000,1,31,30,Medication Period-Diabetes Type 2
+129,metformin,1000,286,316,30,Medication Period-Diabetes Type 2
+129,metformin,1000,323,353,30,Medication Period-Diabetes Type 2
+129,metformin,1000,335,605,270,Medication Period-Diabetes Type 2
+129,metoprolol,200,-34,-4,30,Medication Period-Hyper Tension
+129,metoprolol,200,-2,28,30,Medication Period-Hyper Tension
+129,metoprolol,200,223,313,90,Medication Period-Hyper Tension
+129,metoprolol,200,335,605,270,Medication Period-Hyper Tension
+130,atorvastatin,80,-78,12,90,Medication Period-High Blood Cholestrol
+130,atorvastatin,80,207,297,90,Medication Period-High Blood Cholestrol
+130,atorvastatin,80,399,489,90,Medication Period-High Blood Cholestrol
+130,atorvastatin,80,580,670,90,Medication Period-High Blood Cholestrol
+131,atorvastatin,40,169,499,330,Medication Period-High Blood Cholestrol
+131,atorvastatin,40,552,582,30,Medication Period-High Blood Cholestrol
+131,lovastatin,20,0,90,90,Medication Period-High Blood Cholestrol
+132,metformin,2000,9,99,90,Medication Period-Diabetes Type 2
+132,metformin,2000,265,355,90,Medication Period-Diabetes Type 2
+132,metformin,2000,568,658,90,Medication Period-Diabetes Type 2
+132,rosuvastatin,5,43,133,90,Medication Period-High Blood Cholestrol
+132,rosuvastatin,5,48,138,90,Medication Period-High Blood Cholestrol
+132,rosuvastatin,5,240,330,90,Medication Period-High Blood Cholestrol
+132,rosuvastatin,5,384,474,90,Medication Period-High Blood Cholestrol
+132,rosuvastatin,5,598,688,90,Medication Period-High Blood Cholestrol
+132,valsartan,160,133,163,30,Medication Period-Hyper Tension
+132,valsartan,160,240,330,90,Medication Period-Hyper Tension
+132,valsartan,160,384,474,90,Medication Period-Hyper Tension
+132,valsartan,160,568,658,90,Medication Period-Hyper Tension
+133,losartan,50,52,82,30,Medication Period-Hyper Tension
+133,losartan,50,140,170,30,Medication Period-Hyper Tension
+133,losartan,50,231,261,30,Medication Period-Hyper Tension
+133,losartan,50,232,262,30,Medication Period-Hyper Tension
+133,losartan,100,238,328,90,Medication Period-Hyper Tension
+133,losartan,50,319,349,30,Medication Period-Hyper Tension
+133,losartan,50,406,436,30,Medication Period-Hyper Tension
+134,atorvastatin,80,0,90,90,Medication Period-High Blood Cholestrol
+134,atorvastatin,80,238,328,90,Medication Period-High Blood Cholestrol
+134,atorvastatin,80,373,463,90,Medication Period-High Blood Cholestrol
+134,atorvastatin,80,577,667,90,Medication Period-High Blood Cholestrol
+134,canagliflozin,100,577,607,30,Medication Period-Diabetes Type 2
+134,losartan,100,0,90,90,Medication Period-Hyper Tension
+134,losartan,100,238,328,90,Medication Period-Hyper Tension
+134,losartan,100,241,331,90,Medication Period-Hyper Tension
+134,losartan,100,308,338,30,Medication Period-Hyper Tension
+134,losartan,100,373,463,90,Medication Period-Hyper Tension
+134,losartan,100,442,532,90,Medication Period-Hyper Tension
+134,losartan,100,541,571,30,Medication Period-Hyper Tension
+134,losartan,100,546,576,30,Medication Period-Hyper Tension
+134,losartan,100,577,607,30,Medication Period-Hyper Tension
+134,metformin,2000,0,30,30,Medication Period-Diabetes Type 2
+134,metformin,500,0,90,90,Medication Period-Diabetes Type 2
+134,metformin,2000,340,370,30,Medication Period-Diabetes Type 2
+134,metformin,2000,373,463,90,Medication Period-Diabetes Type 2
+134,metformin,2000,378,408,30,Medication Period-Diabetes Type 2
+134,metformin,2000,577,607,30,Medication Period-Diabetes Type 2
+135,atenolol,25,112,262,150,Medication Period-Hyper Tension
+135,atenolol,25,348,378,30,Medication Period-Hyper Tension
+135,atenolol,25,388,538,150,Medication Period-Hyper Tension
+135,atenolol,25,574,604,30,Medication Period-Hyper Tension
+135,lovastatin,10,112,262,150,Medication Period-High Blood Cholestrol
+135,lovastatin,10,348,349,1,Medication Period-High Blood Cholestrol
+135,lovastatin,10,383,385,2,Medication Period-High Blood Cholestrol
+135,lovastatin,10,511,513,2,Medication Period-High Blood Cholestrol
+135,lovastatin,10,574,604,30,Medication Period-High Blood Cholestrol
+135,valsartan,320,154,229,75,Medication Period-Hyper Tension
+135,valsartan,320,388,463,75,Medication Period-Hyper Tension
+135,valsartan,320,574,604,30,Medication Period-Hyper Tension
+136,atorvastatin,20,102,192,90,Medication Period-High Blood Cholestrol
+136,atorvastatin,20,374,464,90,Medication Period-High Blood Cholestrol
+136,metformin,2000,101,131,30,Medication Period-Diabetes Type 2
+136,metformin,2000,102,192,90,Medication Period-Diabetes Type 2
+136,metformin,2000,374,464,90,Medication Period-Diabetes Type 2
+136,valsartan,160,24,54,30,Medication Period-Hyper Tension
+136,valsartan,160,79,109,30,Medication Period-Hyper Tension
+136,valsartan,160,102,192,90,Medication Period-Hyper Tension
+136,valsartan,160,372,462,90,Medication Period-Hyper Tension
+136,valsartan,160,374,464,90,Medication Period-Hyper Tension
+136,valsartan,160,401,491,90,Medication Period-Hyper Tension
+137,atorvastatin,40,147,177,30,Medication Period-High Blood Cholestrol
+137,atorvastatin,40,218,248,30,Medication Period-High Blood Cholestrol
+137,atorvastatin,40,327,417,90,Medication Period-High Blood Cholestrol
+137,atorvastatin,40,509,599,90,Medication Period-High Blood Cholestrol
+137,atorvastatin,40,597,687,90,Medication Period-High Blood Cholestrol
+137,losartan,100,48,78,30,Medication Period-Hyper Tension
+137,losartan,100,147,177,30,Medication Period-Hyper Tension
+137,losartan,100,237,267,30,Medication Period-Hyper Tension
+137,losartan,100,327,417,90,Medication Period-Hyper Tension
+137,losartan,100,418,508,90,Medication Period-Hyper Tension
+137,losartan,100,597,687,90,Medication Period-Hyper Tension
+137,metoprolol,100,35,125,90,Medication Period-Hyper Tension
+137,metoprolol,100,218,308,90,Medication Period-Hyper Tension
+137,metoprolol,100,400,490,90,Medication Period-Hyper Tension
+137,metoprolol,100,579,669,90,Medication Period-Hyper Tension
+138,rosuvastatin,20,217,487,270,Medication Period-High Blood Cholestrol
+139,metformin,750,0,540,540,Medication Period-Diabetes Type 2
+139,metformin,750,387,477,90,Medication Period-Diabetes Type 2
+139,simvastatin,40,95,275,180,Medication Period-High Blood Cholestrol
+139,simvastatin,40,381,471,90,Medication Period-High Blood Cholestrol
+140,atorvastatin,40,49,79,30,Medication Period-High Blood Cholestrol
+140,atorvastatin,40,63,93,30,Medication Period-High Blood Cholestrol
+140,atorvastatin,40,66,156,90,Medication Period-High Blood Cholestrol
+140,atorvastatin,40,371,461,90,Medication Period-High Blood Cholestrol
+140,losartan,25,572,602,30,Medication Period-Hyper Tension
+140,pravastatin,40,467,497,30,Medication Period-High Blood Cholestrol
+140,pravastatin,40,572,602,30,Medication Period-High Blood Cholestrol
+140,rosuvastatin,5,373,403,30,Medication Period-High Blood Cholestrol
+140,rosuvastatin,5,467,497,30,Medication Period-High Blood Cholestrol
+140,simvastatin,10,572,602,30,Medication Period-High Blood Cholestrol
+141,atenolol,50,296,326,30,Medication Period-Hyper Tension
+141,atenolol,50,341,371,30,Medication Period-Hyper Tension
+141,atenolol,50,576,606,30,Medication Period-Hyper Tension
+141,rosuvastatin,20,296,326,30,Medication Period-High Blood Cholestrol
+141,rosuvastatin,20,341,371,30,Medication Period-High Blood Cholestrol
+141,rosuvastatin,20,576,606,30,Medication Period-High Blood Cholestrol
+142,losartan,50,54,144,90,Medication Period-Hyper Tension
+142,losartan,50,152,242,90,Medication Period-Hyper Tension
+142,losartan,50,244,334,90,Medication Period-Hyper Tension
+142,metoprolol,50,54,144,90,Medication Period-Hyper Tension
+142,metoprolol,50,152,242,90,Medication Period-Hyper Tension
+142,metoprolol,50,251,341,90,Medication Period-Hyper Tension
+142,metoprolol,50,350,440,90,Medication Period-Hyper Tension
+142,metoprolol,50,351,441,90,Medication Period-Hyper Tension
+142,metoprolol,50,371,461,90,Medication Period-Hyper Tension
+142,rosuvastatin,10,0,90,90,Medication Period-High Blood Cholestrol
+142,rosuvastatin,10,88,178,90,Medication Period-High Blood Cholestrol
+142,rosuvastatin,10,175,265,90,Medication Period-High Blood Cholestrol
+142,rosuvastatin,10,355,445,90,Medication Period-High Blood Cholestrol
+143,pravastatin,40,97,187,90,Medication Period-High Blood Cholestrol
+143,pravastatin,40,349,439,90,Medication Period-High Blood Cholestrol
+143,pravastatin,40,465,555,90,Medication Period-High Blood Cholestrol
+144,valsartan,160,6,36,30,Medication Period-Hyper Tension
+144,valsartan,160,90,120,30,Medication Period-Hyper Tension
+144,valsartan,320,90,135,45,Medication Period-Hyper Tension
+144,valsartan,320,625,670,45,Medication Period-Hyper Tension
+145,atorvastatin,40,18,108,90,Medication Period-High Blood Cholestrol
+145,atorvastatin,40,210,300,90,Medication Period-High Blood Cholestrol
+145,atorvastatin,40,394,484,90,Medication Period-High Blood Cholestrol
+145,atorvastatin,40,554,644,90,Medication Period-High Blood Cholestrol
+145,losartan,50,219,309,90,Medication Period-Hyper Tension
+145,losartan,100,394,484,90,Medication Period-Hyper Tension
+145,losartan,50,394,484,90,Medication Period-Hyper Tension
+145,losartan,100,554,644,90,Medication Period-Hyper Tension
+145,metformin,1000,0,30,30,Medication Period-Diabetes Type 2
+145,metformin,1000,18,48,30,Medication Period-Diabetes Type 2
+145,metformin,1000,210,240,30,Medication Period-Diabetes Type 2
+145,metformin,1000,394,424,30,Medication Period-Diabetes Type 2
+145,metformin,1000,483,573,90,Medication Period-Diabetes Type 2
+145,metformin,1000,511,601,90,Medication Period-Diabetes Type 2
+145,metformin,1000,554,644,90,Medication Period-Diabetes Type 2
+146,metformin,2000,188,278,90,Medication Period-Diabetes Type 2
+146,metformin,2000,554,644,90,Medication Period-Diabetes Type 2
+146,simvastatin,20,188,278,90,Medication Period-High Blood Cholestrol
+146,simvastatin,20,554,644,90,Medication Period-High Blood Cholestrol
+148,losartan,50,557,647,90,Medication Period-Hyper Tension
+149,losartan,50,22,112,90,Medication Period-Hyper Tension
+149,losartan,50,127,217,90,Medication Period-Hyper Tension
+149,losartan,50,518,608,90,Medication Period-Hyper Tension
+149,simvastatin,20,22,292,270,Medication Period-High Blood Cholestrol
+149,simvastatin,20,127,397,270,Medication Period-High Blood Cholestrol
+149,simvastatin,20,532,622,90,Medication Period-High Blood Cholestrol
+150,rosuvastatin,40,117,207,90,Medication Period-High Blood Cholestrol
+150,rosuvastatin,40,351,441,90,Medication Period-High Blood Cholestrol
+151,metoprolol,50,5,95,90,Medication Period-Hyper Tension
+151,metoprolol,50,187,277,90,Medication Period-Hyper Tension
+151,metoprolol,50,369,459,90,Medication Period-Hyper Tension
+151,rosuvastatin,20,5,95,90,Medication Period-High Blood Cholestrol
+151,rosuvastatin,20,187,277,90,Medication Period-High Blood Cholestrol
+151,rosuvastatin,20,369,459,90,Medication Period-High Blood Cholestrol
+152,lovastatin,40,249,339,90,Medication Period-High Blood Cholestrol
+152,lovastatin,40,580,670,90,Medication Period-High Blood Cholestrol
+152,metformin,500,249,279,30,Medication Period-Diabetes Type 2
+152,metformin,500,428,458,30,Medication Period-Diabetes Type 2
+152,metformin,500,580,610,30,Medication Period-Diabetes Type 2
+152,metformin,500,642,672,30,Medication Period-Diabetes Type 2
+152,metoprolol,100,188,248,60,Medication Period-Hyper Tension
+152,metoprolol,100,249,309,60,Medication Period-Hyper Tension
+152,metoprolol,100,428,518,90,Medication Period-Hyper Tension
+152,metoprolol,100,580,670,90,Medication Period-Hyper Tension
+154,metformin,1000,211,311,100,Medication Period-Diabetes Type 2
+154,metformin,1000,575,665,90,Medication Period-Diabetes Type 2
+155,atorvastatin,10,639,669,30,Medication Period-High Blood Cholestrol
+155,irbesartan,300,101,146,45,Medication Period-Hyper Tension
+155,metformin,2000,3,33,30,Medication Period-Diabetes Type 2
+155,metformin,2000,348,378,30,Medication Period-Diabetes Type 2
+155,metoprolol,25,3,333,330,Medication Period-Hyper Tension
+155,metoprolol,100,101,191,90,Medication Period-Hyper Tension
+155,metoprolol,100,262,292,30,Medication Period-Hyper Tension
+155,metoprolol,100,639,669,30,Medication Period-Hyper Tension
+156,atorvastatin,10,35,125,90,Medication Period-High Blood Cholestrol
+156,atorvastatin,10,127,217,90,Medication Period-High Blood Cholestrol
+156,atorvastatin,10,128,218,90,Medication Period-High Blood Cholestrol
+156,atorvastatin,10,302,392,90,Medication Period-High Blood Cholestrol
+156,metformin,1000,127,157,30,Medication Period-Diabetes Type 2
+156,metformin,1000,128,218,90,Medication Period-Diabetes Type 2
+156,metformin,1000,302,392,90,Medication Period-Diabetes Type 2
+156,rosuvastatin,5,35,125,90,Medication Period-High Blood Cholestrol
+156,rosuvastatin,5,127,217,90,Medication Period-High Blood Cholestrol
+157,atenolol,50,4,94,90,Medication Period-Hyper Tension
+157,atenolol,50,5,95,90,Medication Period-Hyper Tension
+157,atenolol,50,372,462,90,Medication Period-Hyper Tension
+157,atenolol,50,547,637,90,Medication Period-Hyper Tension
+158,atorvastatin,10,0,90,90,Medication Period-High Blood Cholestrol
+158,atorvastatin,10,6,96,90,Medication Period-High Blood Cholestrol
+158,atorvastatin,10,42,132,90,Medication Period-High Blood Cholestrol
+158,atorvastatin,10,441,531,90,Medication Period-High Blood Cholestrol
+158,atorvastatin,10,478,568,90,Medication Period-High Blood Cholestrol
+158,metformin,500,42,132,90,Medication Period-Diabetes Type 2
+158,metformin,500,409,499,90,Medication Period-Diabetes Type 2
+158,metformin,500,426,516,90,Medication Period-Diabetes Type 2
+158,metformin,500,441,531,90,Medication Period-Diabetes Type 2
+159,rosuvastatin,20,86,176,90,Medication Period-High Blood Cholestrol
+159,rosuvastatin,20,284,374,90,Medication Period-High Blood Cholestrol
+159,rosuvastatin,20,373,463,90,Medication Period-High Blood Cholestrol
+159,valsartan,320,0,45,45,Medication Period-Hyper Tension
+159,valsartan,320,86,131,45,Medication Period-Hyper Tension
+159,valsartan,80,86,176,90,Medication Period-Hyper Tension
+159,valsartan,320,191,281,90,Medication Period-Hyper Tension
+159,valsartan,320,284,374,90,Medication Period-Hyper Tension
+159,valsartan,320,373,463,90,Medication Period-Hyper Tension
+160,atorvastatin,10,563,653,90,Medication Period-High Blood Cholestrol
+161,carvedilol,12.5,361,391,30,Medication Period-Hyper Tension
+161,metformin,500,148,178,30,Medication Period-Diabetes Type 2
+161,metformin,500,270,300,30,Medication Period-Diabetes Type 2
+161,metformin,500,456,486,30,Medication Period-Diabetes Type 2
+162,atorvastatin,80,42,132,90,Medication Period-High Blood Cholestrol
+162,atorvastatin,80,47,137,90,Medication Period-High Blood Cholestrol
+162,atorvastatin,80,49,319,270,Medication Period-High Blood Cholestrol
+162,atorvastatin,80,297,387,90,Medication Period-High Blood Cholestrol
+162,metformin,1000,42,582,540,Medication Period-Diabetes Type 2
+162,metformin,1000,247,607,360,Medication Period-Diabetes Type 2
+162,metformin,1000,494,674,180,Medication Period-Diabetes Type 2
+162,metoprolol,50,0,540,540,Medication Period-Hyper Tension
+162,metoprolol,50,42,402,360,Medication Period-Hyper Tension
+162,metoprolol,50,157,337,180,Medication Period-Hyper Tension
+162,metoprolol,50,247,427,180,Medication Period-Hyper Tension
+163,atorvastatin,20,232,262,30,Medication Period-High Blood Cholestrol
+163,atorvastatin,40,271,421,150,Medication Period-High Blood Cholestrol
+163,atorvastatin,20,383,413,30,Medication Period-High Blood Cholestrol
+163,atorvastatin,20,460,490,30,Medication Period-High Blood Cholestrol
+163,atorvastatin,80,581,611,30,Medication Period-High Blood Cholestrol
+163,atorvastatin,20,581,611,30,Medication Period-High Blood Cholestrol
+163,losartan,100,186,216,30,Medication Period-Hyper Tension
+163,losartan,100,232,262,30,Medication Period-Hyper Tension
+163,losartan,100,271,301,30,Medication Period-Hyper Tension
+163,losartan,100,581,611,30,Medication Period-Hyper Tension
+163,metformin,2000,232,262,30,Medication Period-Diabetes Type 2
+163,metformin,2000,271,301,30,Medication Period-Diabetes Type 2
+163,metformin,2000,581,611,30,Medication Period-Diabetes Type 2
+164,atorvastatin,40,325,415,90,Medication Period-High Blood Cholestrol
+164,losartan,50,188,458,270,Medication Period-Hyper Tension
+164,losartan,50,325,359,34,Medication Period-Hyper Tension
+164,losartan,50,567,597,30,Medication Period-Hyper Tension
+164,losartan,50,595,625,30,Medication Period-Hyper Tension
+164,metoprolol,50,325,595,270,Medication Period-Hyper Tension
+165,metoprolol,50,222,267,45,Medication Period-Hyper Tension
+165,metoprolol,50,369,459,90,Medication Period-Hyper Tension
+166,losartan,100,0,90,90,Medication Period-Hyper Tension
+166,losartan,100,160,250,90,Medication Period-Hyper Tension
+166,metformin,1000,195,285,90,Medication Period-Diabetes Type 2
+166,metformin,1000,343,433,90,Medication Period-Diabetes Type 2
+166,metformin,500,350,440,90,Medication Period-Diabetes Type 2
+167,losartan,50,7,97,90,Medication Period-Hyper Tension
+167,losartan,50,89,99,10,Medication Period-Hyper Tension
+167,losartan,50,132,222,90,Medication Period-Hyper Tension
+167,losartan,50,136,226,90,Medication Period-Hyper Tension
+167,losartan,50,140,230,90,Medication Period-Hyper Tension
+167,losartan,50,500,590,90,Medication Period-Hyper Tension
+167,metoprolol,50,7,97,90,Medication Period-Hyper Tension
+167,metoprolol,50,89,99,10,Medication Period-Hyper Tension
+167,metoprolol,50,132,222,90,Medication Period-Hyper Tension
+167,metoprolol,50,136,226,90,Medication Period-Hyper Tension
+167,metoprolol,50,140,230,90,Medication Period-Hyper Tension
+167,metoprolol,50,500,590,90,Medication Period-Hyper Tension
+167,simvastatin,20,7,97,90,Medication Period-High Blood Cholestrol
+167,simvastatin,20,89,99,10,Medication Period-High Blood Cholestrol
+167,simvastatin,20,132,222,90,Medication Period-High Blood Cholestrol
+167,simvastatin,20,136,226,90,Medication Period-High Blood Cholestrol
+167,simvastatin,20,140,230,90,Medication Period-High Blood Cholestrol
+167,simvastatin,20,500,590,90,Medication Period-High Blood Cholestrol
+168,metformin,2000,359,389,30,Medication Period-Diabetes Type 2
+168,metformin,1000,359,389,30,Medication Period-Diabetes Type 2
+168,metformin,2000,570,600,30,Medication Period-Diabetes Type 2
+169,atorvastatin,20,372,402,30,Medication Period-High Blood Cholestrol
+169,atorvastatin,20,532,562,30,Medication Period-High Blood Cholestrol
+169,atorvastatin,20,636,666,30,Medication Period-High Blood Cholestrol
+170,metoprolol,50,0,90,90,Medication Period-Hyper Tension
+170,metoprolol,50,68,158,90,Medication Period-Hyper Tension
+170,metoprolol,50,404,494,90,Medication Period-Hyper Tension
+170,simvastatin,40,0,90,90,Medication Period-High Blood Cholestrol
+170,simvastatin,40,68,158,90,Medication Period-High Blood Cholestrol
+170,simvastatin,40,404,494,90,Medication Period-High Blood Cholestrol
+170,simvastatin,40,530,620,90,Medication Period-High Blood Cholestrol
+171,atorvastatin,10,189,459,270,Medication Period-High Blood Cholestrol
+171,metformin,2000,189,279,90,Medication Period-Diabetes Type 2
+171,metformin,2000,583,673,90,Medication Period-Diabetes Type 2
+172,atorvastatin,20,436,466,30,Medication Period-High Blood Cholestrol
+172,atorvastatin,20,470,500,30,Medication Period-High Blood Cholestrol
+172,atorvastatin,20,532,562,30,Medication Period-High Blood Cholestrol
+172,atorvastatin,20,601,691,90,Medication Period-High Blood Cholestrol
+172,losartan,100,65,155,90,Medication Period-Hyper Tension
+172,losartan,100,247,337,90,Medication Period-Hyper Tension
+172,losartan,100,436,526,90,Medication Period-Hyper Tension
+172,losartan,100,532,622,90,Medication Period-Hyper Tension
+173,atorvastatin,10,118,388,270,Medication Period-High Blood Cholestrol
+173,atorvastatin,10,144,414,270,Medication Period-High Blood Cholestrol
+173,atorvastatin,10,285,555,270,Medication Period-High Blood Cholestrol
+173,atorvastatin,10,286,556,270,Medication Period-High Blood Cholestrol
+173,valsartan,160,250,340,90,Medication Period-Hyper Tension
+173,valsartan,160,251,341,90,Medication Period-Hyper Tension
+173,valsartan,160,475,625,150,Medication Period-Hyper Tension
+174,losartan,100,73,103,30,Medication Period-Hyper Tension
+174,losartan,100,268,358,90,Medication Period-Hyper Tension
+174,losartan,100,298,328,30,Medication Period-Hyper Tension
+174,losartan,100,327,357,30,Medication Period-Hyper Tension
+174,losartan,100,513,603,90,Medication Period-Hyper Tension
+174,metformin,1000,51,141,90,Medication Period-Diabetes Type 2
+174,metformin,1000,327,417,90,Medication Period-Diabetes Type 2
+174,metformin,1000,513,603,90,Medication Period-Diabetes Type 2
+175,metoprolol,200,64,154,90,Medication Period-Hyper Tension
+175,metoprolol,200,146,236,90,Medication Period-Hyper Tension
+175,metoprolol,200,244,334,90,Medication Period-Hyper Tension
+175,metoprolol,200,245,335,90,Medication Period-Hyper Tension
+175,metoprolol,200,309,399,90,Medication Period-Hyper Tension
+175,metoprolol,200,462,552,90,Medication Period-Hyper Tension
+175,metoprolol,200,559,649,90,Medication Period-Hyper Tension
+175,valsartan,320,64,154,90,Medication Period-Hyper Tension
+175,valsartan,320,140,230,90,Medication Period-Hyper Tension
+175,valsartan,320,204,234,30,Medication Period-Hyper Tension
+175,valsartan,160,204,234,30,Medication Period-Hyper Tension
+175,valsartan,160,232,262,30,Medication Period-Hyper Tension
+175,valsartan,160,309,399,90,Medication Period-Hyper Tension
+175,valsartan,160,462,552,90,Medication Period-Hyper Tension
+175,valsartan,160,559,649,90,Medication Period-Hyper Tension
+176,carvedilol,50,154,244,90,Medication Period-Hyper Tension
+176,carvedilol,50,223,268,45,Medication Period-Hyper Tension
+176,carvedilol,50,327,357,30,Medication Period-Hyper Tension
+176,metformin,2000,154,244,90,Medication Period-Diabetes Type 2
+176,metformin,2000,216,486,270,Medication Period-Diabetes Type 2
+176,metformin,2000,584,674,90,Medication Period-Diabetes Type 2
+177,losartan,50,169,259,90,Medication Period-Hyper Tension
+177,losartan,50,405,495,90,Medication Period-Hyper Tension
+177,losartan,50,434,524,90,Medication Period-Hyper Tension
+178,atorvastatin,80,121,151,30,Medication Period-High Blood Cholestrol
+178,atorvastatin,40,218,308,90,Medication Period-High Blood Cholestrol
+178,atorvastatin,40,390,480,90,Medication Period-High Blood Cholestrol
+178,atorvastatin,80,472,562,90,Medication Period-High Blood Cholestrol
+178,metoprolol,50,218,308,90,Medication Period-Hyper Tension
+178,metoprolol,25,389,419,30,Medication Period-Hyper Tension
+178,metoprolol,50,390,480,90,Medication Period-Hyper Tension
+178,metoprolol,50,564,654,90,Medication Period-Hyper Tension
+179,lovastatin,20,254,344,90,Medication Period-High Blood Cholestrol
+179,metformin,500,109,199,90,Medication Period-Diabetes Type 2
+179,metformin,500,490,580,90,Medication Period-Diabetes Type 2
+179,metformin,500,521,611,90,Medication Period-Diabetes Type 2
+179,metoprolol,25,92,122,30,Medication Period-Hyper Tension
+179,metoprolol,25,266,296,30,Medication Period-Hyper Tension
+179,metoprolol,25,431,461,30,Medication Period-Hyper Tension
+179,metoprolol,25,634,664,30,Medication Period-Hyper Tension
+180,metformin,500,363,453,90,Medication Period-Diabetes Type 2
+180,metformin,500,430,520,90,Medication Period-Diabetes Type 2
+180,metformin,500,543,633,90,Medication Period-Diabetes Type 2
+180,simvastatin,40,363,453,90,Medication Period-High Blood Cholestrol
+180,simvastatin,40,530,620,90,Medication Period-High Blood Cholestrol
+181,metformin,500,242,332,90,Medication Period-Diabetes Type 2
+181,metformin,500,346,436,90,Medication Period-Diabetes Type 2
+181,metformin,500,354,444,90,Medication Period-Diabetes Type 2
+182,losartan,100,631,661,30,Medication Period-Hyper Tension
+182,metoprolol,50,0,30,30,Medication Period-Hyper Tension
+182,metoprolol,50,25,55,30,Medication Period-Hyper Tension
+182,metoprolol,50,26,56,30,Medication Period-Hyper Tension
+182,metoprolol,50,46,76,30,Medication Period-Hyper Tension
+182,metoprolol,50,125,155,30,Medication Period-Hyper Tension
+182,metoprolol,50,158,188,30,Medication Period-Hyper Tension
+182,metoprolol,50,216,306,90,Medication Period-Hyper Tension
+182,metoprolol,50,222,312,90,Medication Period-Hyper Tension
+182,metoprolol,50,315,405,90,Medication Period-Hyper Tension
+182,metoprolol,50,399,489,90,Medication Period-Hyper Tension
+182,simvastatin,20,315,405,90,Medication Period-High Blood Cholestrol
+182,simvastatin,20,399,489,90,Medication Period-High Blood Cholestrol
+182,valsartan,320,26,116,90,Medication Period-Hyper Tension
+182,valsartan,320,46,136,90,Medication Period-Hyper Tension
+182,valsartan,320,125,215,90,Medication Period-Hyper Tension
+182,valsartan,320,158,248,90,Medication Period-Hyper Tension
+182,valsartan,320,216,246,30,Medication Period-Hyper Tension
+182,valsartan,320,222,252,30,Medication Period-Hyper Tension
+182,valsartan,320,223,313,90,Medication Period-Hyper Tension
+182,valsartan,320,315,405,90,Medication Period-Hyper Tension
+182,valsartan,320,323,413,90,Medication Period-Hyper Tension
+182,valsartan,320,399,489,90,Medication Period-Hyper Tension
+184,atenolol,100,20,50,30,Medication Period-Hyper Tension
+184,atenolol,100,68,188,120,Medication Period-Hyper Tension
+184,atenolol,100,163,253,90,Medication Period-Hyper Tension
+184,atenolol,100,219,339,120,Medication Period-Hyper Tension
+184,atenolol,100,220,310,90,Medication Period-Hyper Tension
+184,atenolol,100,395,485,90,Medication Period-Hyper Tension
+184,atenolol,100,483,573,90,Medication Period-Hyper Tension
+184,metformin,1000,12,57,45,Medication Period-Diabetes Type 2
+184,metformin,1000,68,113,45,Medication Period-Diabetes Type 2
+184,metformin,1000,162,252,90,Medication Period-Diabetes Type 2
+184,metformin,1000,374,464,90,Medication Period-Diabetes Type 2
+184,metformin,1000,468,558,90,Medication Period-Diabetes Type 2
+184,metformin,1000,552,642,90,Medication Period-Diabetes Type 2
+184,simvastatin,40,1,91,90,Medication Period-High Blood Cholestrol
+184,simvastatin,40,68,158,90,Medication Period-High Blood Cholestrol
+184,simvastatin,40,163,253,90,Medication Period-High Blood Cholestrol
+184,simvastatin,40,370,460,90,Medication Period-High Blood Cholestrol
+184,simvastatin,40,550,640,90,Medication Period-High Blood Cholestrol
+185,metformin,2550,-1,89,90,Medication Period-Diabetes Type 2
+185,metformin,2550,342,432,90,Medication Period-Diabetes Type 2
+185,metformin,2550,478,568,90,Medication Period-Diabetes Type 2
+185,metformin,2550,481,571,90,Medication Period-Diabetes Type 2
+185,simvastatin,20,-1,89,90,Medication Period-High Blood Cholestrol
+185,simvastatin,20,342,432,90,Medication Period-High Blood Cholestrol
+185,simvastatin,20,478,568,90,Medication Period-High Blood Cholestrol
+187,atorvastatin,20,92,122,30,Medication Period-High Blood Cholestrol
+187,atorvastatin,20,252,282,30,Medication Period-High Blood Cholestrol
+187,atorvastatin,20,352,442,90,Medication Period-High Blood Cholestrol
+187,atorvastatin,20,435,525,90,Medication Period-High Blood Cholestrol
+188,atorvastatin,80,9,99,90,Medication Period-High Blood Cholestrol
+188,atorvastatin,80,289,379,90,Medication Period-High Blood Cholestrol
+188,atorvastatin,80,471,561,90,Medication Period-High Blood Cholestrol
+189,atorvastatin,10,31,61,30,Medication Period-High Blood Cholestrol
+189,atorvastatin,10,206,236,30,Medication Period-High Blood Cholestrol
+189,atorvastatin,10,381,411,30,Medication Period-High Blood Cholestrol
+189,atorvastatin,10,571,601,30,Medication Period-High Blood Cholestrol
+189,atorvastatin,10,662,692,30,Medication Period-High Blood Cholestrol
+189,metoprolol,50,31,61,30,Medication Period-Hyper Tension
+189,metoprolol,50,206,236,30,Medication Period-Hyper Tension
+189,metoprolol,50,381,411,30,Medication Period-Hyper Tension
+189,metoprolol,50,571,601,30,Medication Period-Hyper Tension
+189,metoprolol,50,662,692,30,Medication Period-Hyper Tension
+190,metformin,500,14,104,90,Medication Period-Diabetes Type 2
+190,metformin,500,19,109,90,Medication Period-Diabetes Type 2
+190,metformin,500,196,286,90,Medication Period-Diabetes Type 2
+190,metformin,500,349,529,180,Medication Period-Diabetes Type 2
+190,metformin,500,385,475,90,Medication Period-Diabetes Type 2
+190,metformin,500,564,654,90,Medication Period-Diabetes Type 2
+190,metoprolol,50,564,594,30,Medication Period-Hyper Tension
+190,metoprolol,50,592,622,30,Medication Period-Hyper Tension
+190,simvastatin,20,4,94,90,Medication Period-High Blood Cholestrol
+190,simvastatin,20,14,104,90,Medication Period-High Blood Cholestrol
+190,simvastatin,20,19,109,90,Medication Period-High Blood Cholestrol
+190,simvastatin,20,196,286,90,Medication Period-High Blood Cholestrol
+190,simvastatin,20,349,439,90,Medication Period-High Blood Cholestrol
+190,simvastatin,20,385,475,90,Medication Period-High Blood Cholestrol
+190,simvastatin,20,564,654,90,Medication Period-High Blood Cholestrol
+191,losartan,25,293,323,30,Medication Period-Hyper Tension
+191,losartan,25,510,540,30,Medication Period-Hyper Tension
+191,losartan,25,566,596,30,Medication Period-Hyper Tension
+191,metformin,1000,14,104,90,Medication Period-Diabetes Type 2
+191,metformin,1000,384,474,90,Medication Period-Diabetes Type 2
+191,metformin,1000,566,656,90,Medication Period-Diabetes Type 2
+191,rosuvastatin,20,14,104,90,Medication Period-High Blood Cholestrol
+191,rosuvastatin,20,49,139,90,Medication Period-High Blood Cholestrol
+191,rosuvastatin,20,384,474,90,Medication Period-High Blood Cholestrol
+191,rosuvastatin,20,566,656,90,Medication Period-High Blood Cholestrol
+192,rosuvastatin,10,0,90,90,Medication Period-High Blood Cholestrol
+192,rosuvastatin,10,40,130,90,Medication Period-High Blood Cholestrol
+192,rosuvastatin,10,100,190,90,Medication Period-High Blood Cholestrol
+192,rosuvastatin,10,135,225,90,Medication Period-High Blood Cholestrol
+192,rosuvastatin,10,163,253,90,Medication Period-High Blood Cholestrol
+192,rosuvastatin,10,506,596,90,Medication Period-High Blood Cholestrol
+192,rosuvastatin,10,522,612,90,Medication Period-High Blood Cholestrol
+193,simvastatin,20,210,240,30,Medication Period-High Blood Cholestrol
+193,simvastatin,20,393,423,30,Medication Period-High Blood Cholestrol
+193,simvastatin,20,663,693,30,Medication Period-High Blood Cholestrol
+194,atenolol,100,323,413,90,Medication Period-Hyper Tension
+194,atenolol,100,381,471,90,Medication Period-Hyper Tension
+194,atenolol,100,499,589,90,Medication Period-Hyper Tension
+194,simvastatin,20,323,413,90,Medication Period-High Blood Cholestrol
+194,simvastatin,20,381,471,90,Medication Period-High Blood Cholestrol
+194,simvastatin,20,499,589,90,Medication Period-High Blood Cholestrol
+195,atorvastatin,10,5,35,30,Medication Period-High Blood Cholestrol
+195,atorvastatin,10,180,210,30,Medication Period-High Blood Cholestrol
+195,atorvastatin,10,253,283,30,Medication Period-High Blood Cholestrol
+195,atorvastatin,10,369,399,30,Medication Period-High Blood Cholestrol
+195,atorvastatin,10,539,569,30,Medication Period-High Blood Cholestrol
+197,atorvastatin,20,191,281,90,Medication Period-High Blood Cholestrol
+197,carvedilol,50,35,65,30,Medication Period-Hyper Tension
+197,carvedilol,50,97,127,30,Medication Period-Hyper Tension
+197,metformin,750,192,252,60,Medication Period-Diabetes Type 2
+197,simvastatin,40,-47,43,90,Medication Period-High Blood Cholestrol
+197,simvastatin,40,97,187,90,Medication Period-High Blood Cholestrol
+197,simvastatin,40,561,651,90,Medication Period-High Blood Cholestrol
+198,atorvastatin,20,526,616,90,Medication Period-High Blood Cholestrol
+198,simvastatin,40,0,90,90,Medication Period-High Blood Cholestrol
+198,simvastatin,40,279,369,90,Medication Period-High Blood Cholestrol
+198,simvastatin,40,526,616,90,Medication Period-High Blood Cholestrol
+199,bisoprolol,10,210,300,90,Medication Period-Hyper Tension
+199,bisoprolol,10,317,407,90,Medication Period-Hyper Tension
+199,losartan,100,210,480,270,Medication Period-Hyper Tension
+199,losartan,100,317,587,270,Medication Period-Hyper Tension
+199,pravastatin,20,210,300,90,Medication Period-High Blood Cholestrol
+199,pravastatin,20,484,574,90,Medication Period-High Blood Cholestrol
+200,atorvastatin,20,325,415,90,Medication Period-High Blood Cholestrol
+200,metformin,2000,27,117,90,Medication Period-Diabetes Type 2
+200,metformin,2000,54,144,90,Medication Period-Diabetes Type 2
+200,metformin,2000,426,516,90,Medication Period-Diabetes Type 2
+201,lovastatin,20,3,33,30,Medication Period-High Blood Cholestrol
+201,lovastatin,20,169,259,90,Medication Period-High Blood Cholestrol
+201,lovastatin,20,188,278,90,Medication Period-High Blood Cholestrol
+201,lovastatin,20,351,441,90,Medication Period-High Blood Cholestrol
+201,lovastatin,20,534,624,90,Medication Period-High Blood Cholestrol
+202,pravastatin,20,113,203,90,Medication Period-High Blood Cholestrol
+202,pravastatin,20,116,206,90,Medication Period-High Blood Cholestrol
+202,pravastatin,20,301,308,7,Medication Period-High Blood Cholestrol
+202,valsartan,320,203,293,90,Medication Period-Hyper Tension
+202,valsartan,320,564,654,90,Medication Period-Hyper Tension
+203,metoprolol,50,38,308,270,Medication Period-Hyper Tension
+203,metoprolol,50,118,208,90,Medication Period-Hyper Tension
+203,metoprolol,50,395,665,270,Medication Period-Hyper Tension
+203,pitavastatin,2,118,448,330,Medication Period-High Blood Cholestrol
+203,pitavastatin,2,586,614,28,Medication Period-High Blood Cholestrol
+203,pitavastatin,2,587,615,28,Medication Period-High Blood Cholestrol
+204,simvastatin,20,121,211,90,Medication Period-High Blood Cholestrol
+204,simvastatin,20,160,250,90,Medication Period-High Blood Cholestrol
+204,simvastatin,20,538,628,90,Medication Period-High Blood Cholestrol
+205,atorvastatin,10,77,167,90,Medication Period-High Blood Cholestrol
+205,losartan,50,176,206,30,Medication Period-Hyper Tension
+205,pravastatin,10,60,150,90,Medication Period-High Blood Cholestrol
+205,pravastatin,10,61,151,90,Medication Period-High Blood Cholestrol
+205,pravastatin,10,429,519,90,Medication Period-High Blood Cholestrol
+206,carvedilol,12.5,7,37,30,Medication Period-Hyper Tension
+206,carvedilol,12.5,79,109,30,Medication Period-Hyper Tension
+206,carvedilol,12.5,190,220,30,Medication Period-Hyper Tension
+206,carvedilol,12.5,379,409,30,Medication Period-Hyper Tension
+206,carvedilol,12.5,595,625,30,Medication Period-Hyper Tension
+206,metformin,1000,7,37,30,Medication Period-Diabetes Type 2
+206,metformin,1000,79,109,30,Medication Period-Diabetes Type 2
+206,metformin,1000,80,110,30,Medication Period-Diabetes Type 2
+206,metformin,1000,190,220,30,Medication Period-Diabetes Type 2
+206,metformin,1000,281,311,30,Medication Period-Diabetes Type 2
+206,simvastatin,40,7,37,30,Medication Period-High Blood Cholestrol
+206,simvastatin,40,190,220,30,Medication Period-High Blood Cholestrol
+206,simvastatin,40,379,409,30,Medication Period-High Blood Cholestrol
+206,simvastatin,40,595,625,30,Medication Period-High Blood Cholestrol
+207,atenolol,100,233,323,90,Medication Period-Hyper Tension
+207,olmesartan,20,229,259,30,Medication Period-Hyper Tension
+207,olmesartan,20,233,263,30,Medication Period-Hyper Tension
+207,olmesartan,20,277,307,30,Medication Period-Hyper Tension
+207,olmesartan,20,281,311,30,Medication Period-Hyper Tension
+207,olmesartan,20,382,412,30,Medication Period-Hyper Tension
+207,olmesartan,20,384,414,30,Medication Period-Hyper Tension
+207,olmesartan,20,474,504,30,Medication Period-Hyper Tension
+207,olmesartan,20,482,512,30,Medication Period-Hyper Tension
+207,olmesartan,20,574,604,30,Medication Period-Hyper Tension
+207,olmesartan,20,576,606,30,Medication Period-Hyper Tension
+207,olmesartan,20,613,643,30,Medication Period-Hyper Tension
+207,olmesartan,20,621,651,30,Medication Period-Hyper Tension
+207,olmesartan,20,643,673,30,Medication Period-Hyper Tension
+207,olmesartan,20,649,679,30,Medication Period-Hyper Tension
+207,olmesartan,20,663,693,30,Medication Period-Hyper Tension
+207,pravastatin,40,233,323,90,Medication Period-High Blood Cholestrol
+207,pravastatin,40,473,563,90,Medication Period-High Blood Cholestrol
+208,atenolol,100,0,30,30,Medication Period-Hyper Tension
+208,atenolol,100,28,118,90,Medication Period-Hyper Tension
+208,atenolol,100,38,128,90,Medication Period-Hyper Tension
+208,atenolol,100,224,254,30,Medication Period-Hyper Tension
+208,atenolol,100,296,326,30,Medication Period-Hyper Tension
+208,atenolol,100,473,503,30,Medication Period-Hyper Tension
+208,atenolol,100,477,507,30,Medication Period-Hyper Tension
+208,atenolol,100,506,536,30,Medication Period-Hyper Tension
+210,pravastatin,40,0,270,270,Medication Period-High Blood Cholestrol
+211,atorvastatin,80,169,199,30,Medication Period-High Blood Cholestrol
+211,atorvastatin,80,469,499,30,Medication Period-High Blood Cholestrol
+214,losartan,50,220,310,90,Medication Period-Hyper Tension
+214,losartan,50,570,660,90,Medication Period-Hyper Tension
+214,olmesartan,20,208,298,90,Medication Period-Hyper Tension
+214,olmesartan,20,390,480,90,Medication Period-Hyper Tension
+215,atorvastatin,20,102,132,30,Medication Period-High Blood Cholestrol
+215,atorvastatin,20,167,197,30,Medication Period-High Blood Cholestrol
+215,atorvastatin,20,327,357,30,Medication Period-High Blood Cholestrol
+215,atorvastatin,20,538,568,30,Medication Period-High Blood Cholestrol
+216,losartan,25,327,357,30,Medication Period-Hyper Tension
+216,losartan,25,386,416,30,Medication Period-Hyper Tension
+216,losartan,25,494,524,30,Medication Period-Hyper Tension
+216,metformin,1000,233,323,90,Medication Period-Diabetes Type 2
+216,metformin,1000,238,328,90,Medication Period-Diabetes Type 2
+216,metformin,1000,298,388,90,Medication Period-Diabetes Type 2
+216,metformin,1000,390,480,90,Medication Period-Diabetes Type 2
+216,metformin,1000,494,584,90,Medication Period-Diabetes Type 2
+216,metformin,1000,495,585,90,Medication Period-Diabetes Type 2
+216,metoprolol,25,147,237,90,Medication Period-Hyper Tension
+216,metoprolol,25,321,411,90,Medication Period-Hyper Tension
+216,simvastatin,40,165,255,90,Medication Period-High Blood Cholestrol
+216,simvastatin,40,333,423,90,Medication Period-High Blood Cholestrol
+218,losartan,25,0,30,30,Medication Period-Hyper Tension
+218,losartan,25,269,299,30,Medication Period-Hyper Tension
+218,losartan,25,451,481,30,Medication Period-Hyper Tension
+218,losartan,25,517,547,30,Medication Period-Hyper Tension
+218,losartan,25,635,665,30,Medication Period-Hyper Tension
+218,pravastatin,40,0,90,90,Medication Period-High Blood Cholestrol
+218,pravastatin,40,269,359,90,Medication Period-High Blood Cholestrol
+218,pravastatin,40,451,541,90,Medication Period-High Blood Cholestrol
+218,pravastatin,40,517,607,90,Medication Period-High Blood Cholestrol
+219,metformin,1000,0,90,90,Medication Period-Diabetes Type 2
+219,metformin,1000,2,92,90,Medication Period-Diabetes Type 2
+219,metformin,1000,104,194,90,Medication Period-Diabetes Type 2
+219,metformin,1000,104,194,90,Medication Period-Diabetes Type 2
+219,metformin,1000,329,419,90,Medication Period-Diabetes Type 2
+219,metformin,1000,540,630,90,Medication Period-Diabetes Type 2
+219,simvastatin,20,0,90,90,Medication Period-High Blood Cholestrol
+219,simvastatin,20,205,295,90,Medication Period-High Blood Cholestrol
+219,simvastatin,20,329,419,90,Medication Period-High Blood Cholestrol
+219,simvastatin,20,540,630,90,Medication Period-High Blood Cholestrol
+219,valsartan,320,0,90,90,Medication Period-Hyper Tension
+219,valsartan,320,104,194,90,Medication Period-Hyper Tension
+219,valsartan,320,105,195,90,Medication Period-Hyper Tension
+219,valsartan,320,205,295,90,Medication Period-Hyper Tension
+219,valsartan,320,329,419,90,Medication Period-Hyper Tension
+219,valsartan,320,540,630,90,Medication Period-Hyper Tension
+220,atorvastatin,40,142,232,90,Medication Period-High Blood Cholestrol
+220,atorvastatin,40,235,325,90,Medication Period-High Blood Cholestrol
+220,atorvastatin,40,329,419,90,Medication Period-High Blood Cholestrol
+220,atorvastatin,40,415,505,90,Medication Period-High Blood Cholestrol
+220,atorvastatin,40,505,535,30,Medication Period-High Blood Cholestrol
+220,metformin,1000,0,30,30,Medication Period-Diabetes Type 2
+220,metformin,1000,141,231,90,Medication Period-Diabetes Type 2
+220,metformin,1000,212,242,30,Medication Period-Diabetes Type 2
+220,metformin,1000,266,296,30,Medication Period-Diabetes Type 2
+220,metformin,1000,295,325,30,Medication Period-Diabetes Type 2
+220,metformin,1000,415,505,90,Medication Period-Diabetes Type 2
+220,metformin,1000,445,535,90,Medication Period-Diabetes Type 2
+220,metformin,1000,535,565,30,Medication Period-Diabetes Type 2
+220,simvastatin,40,0,90,90,Medication Period-High Blood Cholestrol
+220,simvastatin,40,141,231,90,Medication Period-High Blood Cholestrol
+220,simvastatin,40,142,172,30,Medication Period-High Blood Cholestrol
+221,atorvastatin,20,29,119,90,Medication Period-High Blood Cholestrol
+221,atorvastatin,40,631,661,30,Medication Period-High Blood Cholestrol
+221,metformin,1000,147,237,90,Medication Period-Diabetes Type 2
+221,metformin,1000,226,406,180,Medication Period-Diabetes Type 2
+221,metformin,1000,229,409,180,Medication Period-Diabetes Type 2
+221,metformin,1000,350,530,180,Medication Period-Diabetes Type 2
+221,metformin,1000,450,630,180,Medication Period-Diabetes Type 2
+221,metformin,1000,451,631,180,Medication Period-Diabetes Type 2
+221,pravastatin,40,29,119,90,Medication Period-High Blood Cholestrol
+221,pravastatin,40,129,219,90,Medication Period-High Blood Cholestrol
+221,pravastatin,40,130,220,90,Medication Period-High Blood Cholestrol
+221,pravastatin,40,226,316,90,Medication Period-High Blood Cholestrol
+221,pravastatin,40,229,319,90,Medication Period-High Blood Cholestrol
+221,pravastatin,40,329,419,90,Medication Period-High Blood Cholestrol
+221,pravastatin,40,510,660,150,Medication Period-High Blood Cholestrol
+222,losartan,100,273,543,270,Medication Period-Hyper Tension
+222,simvastatin,20,3,93,90,Medication Period-High Blood Cholestrol
+222,simvastatin,20,64,154,90,Medication Period-High Blood Cholestrol
+222,simvastatin,20,273,363,90,Medication Period-High Blood Cholestrol
+222,simvastatin,20,413,503,90,Medication Period-High Blood Cholestrol
+222,valsartan,160,3,93,90,Medication Period-Hyper Tension
+222,valsartan,160,64,154,90,Medication Period-Hyper Tension
+222,valsartan,160,273,363,90,Medication Period-Hyper Tension
+223,rosuvastatin,20,190,280,90,Medication Period-High Blood Cholestrol
+223,rosuvastatin,20,501,508,7,Medication Period-High Blood Cholestrol
+223,rosuvastatin,20,566,656,90,Medication Period-High Blood Cholestrol
+224,atorvastatin,40,2,32,30,Medication Period-High Blood Cholestrol
+224,atorvastatin,40,65,95,30,Medication Period-High Blood Cholestrol
+224,metoprolol,50,2,92,90,Medication Period-Hyper Tension
+224,metoprolol,50,246,336,90,Medication Period-Hyper Tension
+224,metoprolol,50,446,536,90,Medication Period-Hyper Tension
+224,metoprolol,50,470,560,90,Medication Period-Hyper Tension
+224,rosuvastatin,20,65,95,30,Medication Period-High Blood Cholestrol
+224,rosuvastatin,10,125,215,90,Medication Period-High Blood Cholestrol
+224,rosuvastatin,20,153,183,30,Medication Period-High Blood Cholestrol
+224,rosuvastatin,10,300,390,90,Medication Period-High Blood Cholestrol
+224,rosuvastatin,20,349,379,30,Medication Period-High Blood Cholestrol
+224,rosuvastatin,10,349,439,90,Medication Period-High Blood Cholestrol
+224,rosuvastatin,10,391,481,90,Medication Period-High Blood Cholestrol
+224,rosuvastatin,10,470,560,90,Medication Period-High Blood Cholestrol
+224,simvastatin,80,2,17,15,Medication Period-High Blood Cholestrol
+225,pravastatin,80,176,236,60,Medication Period-High Blood Cholestrol
+225,pravastatin,80,197,257,60,Medication Period-High Blood Cholestrol
+225,pravastatin,40,380,470,90,Medication Period-High Blood Cholestrol
+225,pravastatin,20,475,565,90,Medication Period-High Blood Cholestrol
+225,pravastatin,20,590,680,90,Medication Period-High Blood Cholestrol
+226,atorvastatin,40,35,125,90,Medication Period-High Blood Cholestrol
+226,atorvastatin,40,494,584,90,Medication Period-High Blood Cholestrol
+226,carvedilol,12.5,98,128,30,Medication Period-Hyper Tension
+226,carvedilol,12.5,168,258,90,Medication Period-Hyper Tension
+226,metformin,500,266,356,90,Medication Period-Diabetes Type 2
+227,losartan,100,0,90,90,Medication Period-Hyper Tension
+227,losartan,100,131,221,90,Medication Period-Hyper Tension
+227,losartan,100,334,424,90,Medication Period-Hyper Tension
+227,losartan,100,420,510,90,Medication Period-Hyper Tension
+227,losartan,100,512,602,90,Medication Period-Hyper Tension
+227,losartan,100,600,690,90,Medication Period-Hyper Tension
+227,metformin,1000,0,90,90,Medication Period-Diabetes Type 2
+227,metformin,1000,131,221,90,Medication Period-Diabetes Type 2
+227,metformin,1000,334,424,90,Medication Period-Diabetes Type 2
+227,metformin,1000,420,510,90,Medication Period-Diabetes Type 2
+227,metformin,1000,512,602,90,Medication Period-Diabetes Type 2
+227,metformin,1000,600,690,90,Medication Period-Diabetes Type 2
+227,simvastatin,20,0,90,90,Medication Period-High Blood Cholestrol
+227,simvastatin,20,131,221,90,Medication Period-High Blood Cholestrol
+227,simvastatin,20,334,424,90,Medication Period-High Blood Cholestrol
+227,simvastatin,20,420,510,90,Medication Period-High Blood Cholestrol
+227,simvastatin,20,512,602,90,Medication Period-High Blood Cholestrol
+227,simvastatin,20,600,690,90,Medication Period-High Blood Cholestrol
+228,rosuvastatin,5,-14,16,30,Medication Period-High Blood Cholestrol
+228,rosuvastatin,5,178,208,30,Medication Period-High Blood Cholestrol
+228,rosuvastatin,5,370,400,30,Medication Period-High Blood Cholestrol
+228,rosuvastatin,5,492,522,30,Medication Period-High Blood Cholestrol
+228,rosuvastatin,5,606,636,30,Medication Period-High Blood Cholestrol
+228,rosuvastatin,5,630,660,30,Medication Period-High Blood Cholestrol
+229,atorvastatin,10,0,90,90,Medication Period-High Blood Cholestrol
+229,atorvastatin,10,132,222,90,Medication Period-High Blood Cholestrol
+229,atorvastatin,10,304,394,90,Medication Period-High Blood Cholestrol
+229,atorvastatin,10,361,451,90,Medication Period-High Blood Cholestrol
+229,atorvastatin,10,514,604,90,Medication Period-High Blood Cholestrol
+229,atorvastatin,10,543,633,90,Medication Period-High Blood Cholestrol
+229,metformin,500,132,222,90,Medication Period-Diabetes Type 2
+229,metformin,500,186,276,90,Medication Period-Diabetes Type 2
+229,metformin,500,304,394,90,Medication Period-Diabetes Type 2
+229,metformin,500,363,453,90,Medication Period-Diabetes Type 2
+229,metformin,500,501,591,90,Medication Period-Diabetes Type 2
+229,metformin,500,605,695,90,Medication Period-Diabetes Type 2
+230,atenolol,100,0,90,90,Medication Period-Hyper Tension
+230,metformin,1000,48,78,30,Medication Period-Diabetes Type 2
+230,metformin,1000,59,89,30,Medication Period-Diabetes Type 2
+230,metformin,1000,62,92,30,Medication Period-Diabetes Type 2
+230,metformin,1000,65,155,90,Medication Period-Diabetes Type 2
+230,metformin,1000,66,156,90,Medication Period-Diabetes Type 2
+230,rosuvastatin,20,0,90,90,Medication Period-High Blood Cholestrol
+231,lovastatin,20,419,509,90,Medication Period-High Blood Cholestrol
+231,lovastatin,20,574,664,90,Medication Period-High Blood Cholestrol
+231,metoprolol,50,0,90,90,Medication Period-Hyper Tension
+231,metoprolol,25,181,271,90,Medication Period-Hyper Tension
+231,metoprolol,50,181,271,90,Medication Period-Hyper Tension
+231,metoprolol,25,206,296,90,Medication Period-Hyper Tension
+231,metoprolol,50,206,296,90,Medication Period-Hyper Tension
+231,metoprolol,50,419,509,90,Medication Period-Hyper Tension
+231,metoprolol,50,574,664,90,Medication Period-Hyper Tension
+231,pravastatin,20,419,509,90,Medication Period-High Blood Cholestrol
+232,metoprolol,50,76,106,30,Medication Period-Hyper Tension
+232,metoprolol,50,279,309,30,Medication Period-Hyper Tension
+232,metoprolol,50,325,355,30,Medication Period-Hyper Tension
+232,metoprolol,50,462,492,30,Medication Period-Hyper Tension
+232,metoprolol,50,658,688,30,Medication Period-Hyper Tension
+232,simvastatin,40,10,40,30,Medication Period-High Blood Cholestrol
+232,simvastatin,40,279,309,30,Medication Period-High Blood Cholestrol
+232,simvastatin,40,325,355,30,Medication Period-High Blood Cholestrol
+232,simvastatin,40,616,646,30,Medication Period-High Blood Cholestrol
+232,simvastatin,40,658,688,30,Medication Period-High Blood Cholestrol
+233,atorvastatin,40,83,173,90,Medication Period-High Blood Cholestrol
+233,atorvastatin,40,386,476,90,Medication Period-High Blood Cholestrol
+233,metformin,1000,1,31,30,Medication Period-Diabetes Type 2
+233,metformin,1000,83,173,90,Medication Period-Diabetes Type 2
+233,metformin,1000,386,476,90,Medication Period-Diabetes Type 2
+234,metformin,1500,120,160,40,Medication Period-Diabetes Type 2
+234,metformin,1500,121,161,40,Medication Period-Diabetes Type 2
+234,metformin,1500,153,193,40,Medication Period-Diabetes Type 2
+234,metformin,1500,155,195,40,Medication Period-Diabetes Type 2
+234,metformin,1500,181,241,60,Medication Period-Diabetes Type 2
+234,metformin,1500,184,244,60,Medication Period-Diabetes Type 2
+234,metformin,1500,216,256,40,Medication Period-Diabetes Type 2
+234,metformin,1500,221,251,30,Medication Period-Diabetes Type 2
+234,metformin,1500,223,253,30,Medication Period-Diabetes Type 2
+234,metformin,1500,241,271,30,Medication Period-Diabetes Type 2
+234,metformin,1500,456,486,30,Medication Period-Diabetes Type 2
+234,metformin,1500,608,638,30,Medication Period-Diabetes Type 2
+234,metformin,1500,637,667,30,Medication Period-Diabetes Type 2
+234,metoprolol,100,0,30,30,Medication Period-Hyper Tension
+234,metoprolol,100,125,155,30,Medication Period-Hyper Tension
+234,metoprolol,100,274,304,30,Medication Period-Hyper Tension
+234,metoprolol,100,517,547,30,Medication Period-Hyper Tension
+234,metoprolol,100,667,697,30,Medication Period-Hyper Tension
+234,simvastatin,20,90,180,90,Medication Period-High Blood Cholestrol
+234,simvastatin,20,394,484,90,Medication Period-High Blood Cholestrol
+234,valsartan,640,0,30,30,Medication Period-Hyper Tension
+234,valsartan,640,87,177,90,Medication Period-Hyper Tension
+234,valsartan,640,119,209,90,Medication Period-Hyper Tension
+234,valsartan,640,216,306,90,Medication Period-Hyper Tension
+234,valsartan,640,517,607,90,Medication Period-Hyper Tension
+235,lovastatin,40,17,47,30,Medication Period-High Blood Cholestrol
+235,lovastatin,40,73,103,30,Medication Period-High Blood Cholestrol
+235,lovastatin,40,112,142,30,Medication Period-High Blood Cholestrol
+235,lovastatin,40,142,172,30,Medication Period-High Blood Cholestrol
+235,lovastatin,40,174,204,30,Medication Period-High Blood Cholestrol
+235,lovastatin,40,204,234,30,Medication Period-High Blood Cholestrol
+235,lovastatin,40,233,263,30,Medication Period-High Blood Cholestrol
+235,lovastatin,40,267,297,30,Medication Period-High Blood Cholestrol
+235,lovastatin,40,269,299,30,Medication Period-High Blood Cholestrol
+235,lovastatin,40,419,449,30,Medication Period-High Blood Cholestrol
+235,lovastatin,40,512,602,90,Medication Period-High Blood Cholestrol
+235,lovastatin,40,637,667,30,Medication Period-High Blood Cholestrol
+236,losartan,100,109,139,30,Medication Period-Hyper Tension
+236,losartan,100,115,145,30,Medication Period-Hyper Tension
+236,losartan,100,298,328,30,Medication Period-Hyper Tension
+236,losartan,100,411,441,30,Medication Period-Hyper Tension
+236,losartan,100,592,682,90,Medication Period-Hyper Tension
+236,metoprolol,25,503,518,15,Medication Period-Hyper Tension
+236,simvastatin,20,83,233,150,Medication Period-High Blood Cholestrol
+236,simvastatin,20,264,294,30,Medication Period-High Blood Cholestrol
+236,simvastatin,20,411,441,30,Medication Period-High Blood Cholestrol
+236,simvastatin,20,592,682,90,Medication Period-High Blood Cholestrol
+237,atorvastatin,10,28,58,30,Medication Period-High Blood Cholestrol
+237,atorvastatin,10,61,151,90,Medication Period-High Blood Cholestrol
+237,atorvastatin,10,147,177,30,Medication Period-High Blood Cholestrol
+237,atorvastatin,10,173,263,90,Medication Period-High Blood Cholestrol
+237,losartan,50,0,30,30,Medication Period-Hyper Tension
+237,losartan,50,148,178,30,Medication Period-Hyper Tension
+238,metoprolol,50,195,285,90,Medication Period-Hyper Tension
+238,metoprolol,50,565,655,90,Medication Period-Hyper Tension
+239,bisoprolol,5,16,76,60,Medication Period-Hyper Tension
+240,atorvastatin,20,314,344,30,Medication Period-High Blood Cholestrol
+240,atorvastatin,20,621,651,30,Medication Period-High Blood Cholestrol
+241,atorvastatin,40,78,168,90,Medication Period-High Blood Cholestrol
+241,atorvastatin,40,346,436,90,Medication Period-High Blood Cholestrol
+241,atorvastatin,40,353,443,90,Medication Period-High Blood Cholestrol
+241,metformin,2000,78,168,90,Medication Period-Diabetes Type 2
+241,metformin,2000,161,251,90,Medication Period-Diabetes Type 2
+241,metformin,2000,162,252,90,Medication Period-Diabetes Type 2
+241,metformin,2000,346,436,90,Medication Period-Diabetes Type 2
+241,metformin,2000,353,443,90,Medication Period-Diabetes Type 2
+242,simvastatin,20,57,87,30,Medication Period-High Blood Cholestrol
+242,simvastatin,20,176,266,90,Medication Period-High Blood Cholestrol
+242,simvastatin,20,177,267,90,Medication Period-High Blood Cholestrol
+242,simvastatin,20,333,363,30,Medication Period-High Blood Cholestrol
+242,simvastatin,20,602,632,30,Medication Period-High Blood Cholestrol
+244,atorvastatin,10,102,132,30,Medication Period-High Blood Cholestrol
+244,atorvastatin,10,318,408,90,Medication Period-High Blood Cholestrol
+244,atorvastatin,10,469,559,90,Medication Period-High Blood Cholestrol
+244,dapagliflozin,10,469,559,90,Medication Period-Diabetes Type 2
+244,dapagliflozin,10,470,560,90,Medication Period-Diabetes Type 2
+244,losartan,100,15,105,90,Medication Period-Hyper Tension
+244,losartan,100,102,192,90,Medication Period-Hyper Tension
+244,losartan,100,469,559,90,Medication Period-Hyper Tension
+244,losartan,100,470,560,90,Medication Period-Hyper Tension
+244,metformin,500,15,75,60,Medication Period-Diabetes Type 2
+244,metformin,1000,120,210,90,Medication Period-Diabetes Type 2
+244,metformin,1000,297,327,30,Medication Period-Diabetes Type 2
+244,metformin,1000,469,499,30,Medication Period-Diabetes Type 2
+244,metformin,1000,653,683,30,Medication Period-Diabetes Type 2
+244,pravastatin,40,15,105,90,Medication Period-High Blood Cholestrol
+244,pravastatin,40,102,192,90,Medication Period-High Blood Cholestrol
+245,metformin,500,343,433,90,Medication Period-Diabetes Type 2
+245,metformin,500,378,468,90,Medication Period-Diabetes Type 2
+245,metformin,500,463,553,90,Medication Period-Diabetes Type 2
+245,pravastatin,40,231,321,90,Medication Period-High Blood Cholestrol
+245,pravastatin,40,343,433,90,Medication Period-High Blood Cholestrol
+245,pravastatin,40,378,468,90,Medication Period-High Blood Cholestrol
+245,pravastatin,40,463,553,90,Medication Period-High Blood Cholestrol
+247,losartan,50,55,85,30,Medication Period-Hyper Tension
+247,losartan,100,434,524,90,Medication Period-Hyper Tension
+247,simvastatin,20,55,145,90,Medication Period-High Blood Cholestrol
+247,simvastatin,20,434,524,90,Medication Period-High Blood Cholestrol
+249,atorvastatin,20,100,190,90,Medication Period-High Blood Cholestrol
+249,atorvastatin,20,299,569,270,Medication Period-High Blood Cholestrol
+249,atorvastatin,20,313,343,30,Medication Period-High Blood Cholestrol
+249,atorvastatin,20,329,599,270,Medication Period-High Blood Cholestrol
+249,atorvastatin,20,387,417,30,Medication Period-High Blood Cholestrol
+249,atorvastatin,20,569,659,90,Medication Period-High Blood Cholestrol
+249,valsartan,320,100,190,90,Medication Period-Hyper Tension
+249,valsartan,640,103,238,135,Medication Period-Hyper Tension
+250,atorvastatin,10,0,90,90,Medication Period-High Blood Cholestrol
+250,atorvastatin,10,322,502,180,Medication Period-High Blood Cholestrol
+250,metformin,500,213,273,60,Medication Period-Diabetes Type 2
+250,simvastatin,10,0,90,90,Medication Period-High Blood Cholestrol
+251,atorvastatin,80,209,299,90,Medication Period-High Blood Cholestrol
+251,atorvastatin,80,503,593,90,Medication Period-High Blood Cholestrol
+251,atorvastatin,80,607,697,90,Medication Period-High Blood Cholestrol
+251,metoprolol,25,17,47,30,Medication Period-Hyper Tension
+251,metoprolol,25,140,170,30,Medication Period-Hyper Tension
+251,metoprolol,25,271,301,30,Medication Period-Hyper Tension
+251,metoprolol,25,303,333,30,Medication Period-Hyper Tension
+251,metoprolol,25,333,363,30,Medication Period-Hyper Tension
+251,metoprolol,25,364,394,30,Medication Period-Hyper Tension
+251,metoprolol,25,425,455,30,Medication Period-Hyper Tension
+251,metoprolol,25,635,665,30,Medication Period-Hyper Tension
+251,metoprolol,25,665,695,30,Medication Period-Hyper Tension
+251,pravastatin,80,81,111,30,Medication Period-High Blood Cholestrol
+251,pravastatin,80,209,239,30,Medication Period-High Blood Cholestrol
+251,pravastatin,80,332,362,30,Medication Period-High Blood Cholestrol
+251,pravastatin,80,503,533,30,Medication Period-High Blood Cholestrol
+252,losartan,50,7,97,90,Medication Period-Hyper Tension
+252,losartan,50,105,195,90,Medication Period-Hyper Tension
+252,losartan,50,105,195,90,Medication Period-Hyper Tension
+252,losartan,50,174,264,90,Medication Period-Hyper Tension
+252,losartan,50,231,321,90,Medication Period-Hyper Tension
+252,losartan,50,286,376,90,Medication Period-Hyper Tension
+252,losartan,50,418,508,90,Medication Period-Hyper Tension
+252,losartan,50,497,587,90,Medication Period-Hyper Tension
+252,simvastatin,20,7,97,90,Medication Period-High Blood Cholestrol
+252,simvastatin,20,105,195,90,Medication Period-High Blood Cholestrol
+252,simvastatin,20,174,264,90,Medication Period-High Blood Cholestrol
+252,simvastatin,20,286,376,90,Medication Period-High Blood Cholestrol
+252,simvastatin,20,415,505,90,Medication Period-High Blood Cholestrol
+252,simvastatin,20,497,587,90,Medication Period-High Blood Cholestrol
+253,atorvastatin,10,49,79,30,Medication Period-High Blood Cholestrol
+253,atorvastatin,10,161,191,30,Medication Period-High Blood Cholestrol
+253,atorvastatin,10,282,312,30,Medication Period-High Blood Cholestrol
+253,atorvastatin,10,288,318,30,Medication Period-High Blood Cholestrol
+253,atorvastatin,10,513,543,30,Medication Period-High Blood Cholestrol
+253,carvedilol,25,46,136,90,Medication Period-Hyper Tension
+253,carvedilol,25,241,331,90,Medication Period-Hyper Tension
+253,carvedilol,25,422,512,90,Medication Period-Hyper Tension
+253,carvedilol,25,423,513,90,Medication Period-Hyper Tension
+253,metformin,1000,67,97,30,Medication Period-Diabetes Type 2
+253,metformin,1000,100,130,30,Medication Period-Diabetes Type 2
+253,metformin,1700,100,130,30,Medication Period-Diabetes Type 2
+253,metformin,1700,214,244,30,Medication Period-Diabetes Type 2
+253,metformin,1700,347,377,30,Medication Period-Diabetes Type 2
+253,metformin,1700,350,380,30,Medication Period-Diabetes Type 2
+253,metformin,1700,484,514,30,Medication Period-Diabetes Type 2
+253,metformin,1700,486,516,30,Medication Period-Diabetes Type 2
+253,metformin,1700,610,640,30,Medication Period-Diabetes Type 2
+254,losartan,50,57,147,90,Medication Period-Hyper Tension
+254,losartan,50,188,278,90,Medication Period-Hyper Tension
+254,losartan,50,251,341,90,Medication Period-Hyper Tension
+254,losartan,50,430,520,90,Medication Period-Hyper Tension
+254,losartan,50,432,522,90,Medication Period-Hyper Tension
+254,losartan,50,606,696,90,Medication Period-Hyper Tension
+254,simvastatin,20,57,147,90,Medication Period-High Blood Cholestrol
+254,simvastatin,20,188,278,90,Medication Period-High Blood Cholestrol
+254,simvastatin,20,251,341,90,Medication Period-High Blood Cholestrol
+254,simvastatin,20,430,520,90,Medication Period-High Blood Cholestrol
+254,simvastatin,20,432,522,90,Medication Period-High Blood Cholestrol
+254,simvastatin,20,606,696,90,Medication Period-High Blood Cholestrol
+255,metformin,500,361,391,30,Medication Period-Diabetes Type 2
+255,metformin,500,368,398,30,Medication Period-Diabetes Type 2
+255,simvastatin,10,368,398,30,Medication Period-High Blood Cholestrol
+255,simvastatin,10,538,568,30,Medication Period-High Blood Cholestrol
+256,atorvastatin,10,308,398,90,Medication Period-High Blood Cholestrol
+256,atorvastatin,10,490,580,90,Medication Period-High Blood Cholestrol
+256,metformin,1000,308,488,180,Medication Period-Diabetes Type 2
+256,metformin,1000,490,670,180,Medication Period-Diabetes Type 2
+257,atorvastatin,10,301,391,90,Medication Period-High Blood Cholestrol
+257,atorvastatin,10,380,470,90,Medication Period-High Blood Cholestrol
+257,metoprolol,25,301,391,90,Medication Period-Hyper Tension
+257,metoprolol,25,380,470,90,Medication Period-Hyper Tension
+257,valsartan,640,0,90,90,Medication Period-Hyper Tension
+257,valsartan,640,525,615,90,Medication Period-Hyper Tension
+258,atenolol,50,434,524,90,Medication Period-Hyper Tension
+258,simvastatin,20,434,524,90,Medication Period-High Blood Cholestrol
+259,metformin,500,171,201,30,Medication Period-Diabetes Type 2
+259,metformin,500,347,377,30,Medication Period-Diabetes Type 2
+259,metformin,500,508,538,30,Medication Period-Diabetes Type 2
+259,rosuvastatin,20,47,77,30,Medication Period-High Blood Cholestrol
+259,rosuvastatin,20,257,287,30,Medication Period-High Blood Cholestrol
+259,rosuvastatin,20,444,474,30,Medication Period-High Blood Cholestrol
+259,rosuvastatin,20,599,629,30,Medication Period-High Blood Cholestrol
+259,valsartan,320,94,124,30,Medication Period-Hyper Tension
+259,valsartan,320,224,254,30,Medication Period-Hyper Tension
+259,valsartan,320,388,418,30,Medication Period-Hyper Tension
+259,valsartan,320,542,572,30,Medication Period-Hyper Tension
+260,losartan,50,0,30,30,Medication Period-Hyper Tension
+260,losartan,50,357,447,90,Medication Period-Hyper Tension
+260,metformin,1000,0,90,90,Medication Period-Diabetes Type 2
+260,metformin,2000,29,119,90,Medication Period-Diabetes Type 2
+260,metformin,2000,432,522,90,Medication Period-Diabetes Type 2
+260,simvastatin,40,0,30,30,Medication Period-High Blood Cholestrol
+260,simvastatin,40,357,447,90,Medication Period-High Blood Cholestrol
+261,losartan,50,5,95,90,Medication Period-Hyper Tension
+261,losartan,50,275,365,90,Medication Period-Hyper Tension
+261,losartan,50,490,580,90,Medication Period-Hyper Tension
+261,rosuvastatin,20,12,282,270,Medication Period-High Blood Cholestrol
+261,telmisartan,40,5,95,90,Medication Period-Hyper Tension
+262,atorvastatin,40,155,185,30,Medication Period-High Blood Cholestrol
+262,metformin,500,274,334,60,Medication Period-Diabetes Type 2
+262,metformin,500,276,366,90,Medication Period-Diabetes Type 2
+262,metoprolol,50,155,245,90,Medication Period-Hyper Tension
+262,rosuvastatin,10,155,245,90,Medication Period-High Blood Cholestrol
+263,rosuvastatin,20,379,649,270,Medication Period-High Blood Cholestrol
+264,irbesartan,150,600,690,90,Medication Period-Hyper Tension
+264,irbesartan,150,604,634,30,Medication Period-Hyper Tension
+264,simvastatin,40,171,441,270,Medication Period-High Blood Cholestrol
+264,simvastatin,40,419,509,90,Medication Period-High Blood Cholestrol
+264,simvastatin,40,600,690,90,Medication Period-High Blood Cholestrol
+265,atorvastatin,20,253,583,330,Medication Period-High Blood Cholestrol
+265,metoprolol,25,253,283,30,Medication Period-Hyper Tension
+265,metoprolol,25,626,656,30,Medication Period-Hyper Tension
+266,atorvastatin,40,4,34,30,Medication Period-High Blood Cholestrol
+266,atorvastatin,20,4,334,330,Medication Period-High Blood Cholestrol
+266,atorvastatin,20,367,697,330,Medication Period-High Blood Cholestrol
+266,carvedilol,25,4,334,330,Medication Period-Hyper Tension
+266,carvedilol,50,144,204,60,Medication Period-Hyper Tension
+266,carvedilol,50,367,697,330,Medication Period-Hyper Tension
+267,atorvastatin,10,104,194,90,Medication Period-High Blood Cholestrol
+267,atorvastatin,10,242,332,90,Medication Period-High Blood Cholestrol
+267,atorvastatin,10,445,535,90,Medication Period-High Blood Cholestrol
+267,metformin,500,104,194,90,Medication Period-Diabetes Type 2
+267,metformin,500,242,332,90,Medication Period-Diabetes Type 2
+267,metformin,500,444,534,90,Medication Period-Diabetes Type 2
+268,atorvastatin,40,479,569,90,Medication Period-High Blood Cholestrol
+268,losartan,50,175,445,270,Medication Period-Hyper Tension
+268,losartan,50,345,615,270,Medication Period-Hyper Tension
+268,metformin,500,39,579,540,Medication Period-Diabetes Type 2
+268,metoprolol,50,39,309,270,Medication Period-Hyper Tension
+268,metoprolol,50,175,445,270,Medication Period-Hyper Tension
+268,metoprolol,50,345,615,270,Medication Period-Hyper Tension
+268,simvastatin,20,39,309,270,Medication Period-High Blood Cholestrol
+268,simvastatin,20,175,445,270,Medication Period-High Blood Cholestrol
+268,simvastatin,20,345,615,270,Medication Period-High Blood Cholestrol
+269,atorvastatin,20,198,288,90,Medication Period-High Blood Cholestrol
+269,atorvastatin,20,256,346,90,Medication Period-High Blood Cholestrol
+269,atorvastatin,20,541,631,90,Medication Period-High Blood Cholestrol
+270,lovastatin,40,-1,269,270,Medication Period-High Blood Cholestrol
+270,lovastatin,40,370,550,180,Medication Period-High Blood Cholestrol
+270,metoprolol,25,76,616,540,Medication Period-Hyper Tension
+270,metoprolol,25,437,617,180,Medication Period-Hyper Tension
+271,metformin,1000,92,182,90,Medication Period-Diabetes Type 2
+271,metformin,1000,415,505,90,Medication Period-Diabetes Type 2
+271,metoprolol,50,92,182,90,Medication Period-Hyper Tension
+271,metoprolol,50,415,505,90,Medication Period-Hyper Tension
+271,rosuvastatin,40,92,182,90,Medication Period-High Blood Cholestrol
+271,rosuvastatin,40,415,505,90,Medication Period-High Blood Cholestrol
+272,atorvastatin,20,260,350,90,Medication Period-High Blood Cholestrol
+272,atorvastatin,20,454,544,90,Medication Period-High Blood Cholestrol
+272,metformin,1000,34,124,90,Medication Period-Diabetes Type 2
+272,metformin,1000,103,193,90,Medication Period-Diabetes Type 2
+272,metformin,1000,168,258,90,Medication Period-Diabetes Type 2
+272,metformin,2000,257,347,90,Medication Period-Diabetes Type 2
+272,metformin,2000,280,370,90,Medication Period-Diabetes Type 2
+272,metformin,2000,348,438,90,Medication Period-Diabetes Type 2
+272,metformin,2000,414,504,90,Medication Period-Diabetes Type 2
+272,metformin,2000,572,662,90,Medication Period-Diabetes Type 2
+273,losartan,100,0,90,90,Medication Period-Hyper Tension
+273,losartan,100,90,180,90,Medication Period-Hyper Tension
+273,losartan,100,278,368,90,Medication Period-Hyper Tension
+273,losartan,100,350,440,90,Medication Period-Hyper Tension
+273,losartan,100,474,564,90,Medication Period-Hyper Tension
+273,metoprolol,50,0,270,270,Medication Period-Hyper Tension
+273,metoprolol,50,90,360,270,Medication Period-Hyper Tension
+273,metoprolol,50,466,556,90,Medication Period-Hyper Tension
+273,simvastatin,20,0,270,270,Medication Period-High Blood Cholestrol
+273,simvastatin,20,90,360,270,Medication Period-High Blood Cholestrol
+273,simvastatin,40,278,548,270,Medication Period-High Blood Cholestrol
+273,simvastatin,40,362,632,270,Medication Period-High Blood Cholestrol
+274,atenolol,100,25,115,90,Medication Period-Hyper Tension
+274,atenolol,100,158,248,90,Medication Period-Hyper Tension
+274,atenolol,100,252,342,90,Medication Period-Hyper Tension
+274,atenolol,100,354,444,90,Medication Period-Hyper Tension
+274,atenolol,100,364,454,90,Medication Period-Hyper Tension
+274,atenolol,100,406,496,90,Medication Period-Hyper Tension
+274,atenolol,100,502,592,90,Medication Period-Hyper Tension
+274,atenolol,100,592,682,90,Medication Period-Hyper Tension
+274,atorvastatin,80,25,115,90,Medication Period-High Blood Cholestrol
+274,atorvastatin,80,269,359,90,Medication Period-High Blood Cholestrol
+274,atorvastatin,80,270,360,90,Medication Period-High Blood Cholestrol
+274,atorvastatin,80,364,454,90,Medication Period-High Blood Cholestrol
+274,atorvastatin,80,407,497,90,Medication Period-High Blood Cholestrol
+274,atorvastatin,80,544,574,30,Medication Period-High Blood Cholestrol
+274,atorvastatin,80,582,612,30,Medication Period-High Blood Cholestrol
+274,atorvastatin,80,642,672,30,Medication Period-High Blood Cholestrol
+275,atorvastatin,10,423,453,30,Medication Period-High Blood Cholestrol
+275,atorvastatin,10,581,671,90,Medication Period-High Blood Cholestrol
+275,rosuvastatin,10,176,266,90,Medication Period-High Blood Cholestrol
+275,rosuvastatin,10,182,272,90,Medication Period-High Blood Cholestrol
+275,rosuvastatin,10,352,442,90,Medication Period-High Blood Cholestrol
+275,rosuvastatin,10,357,447,90,Medication Period-High Blood Cholestrol
+275,rosuvastatin,10,423,513,90,Medication Period-High Blood Cholestrol
+277,atenolol,100,89,179,90,Medication Period-Hyper Tension
+277,atenolol,100,100,190,90,Medication Period-Hyper Tension
+277,atenolol,100,266,356,90,Medication Period-Hyper Tension
+277,atenolol,100,441,531,90,Medication Period-Hyper Tension
+277,losartan,100,60,150,90,Medication Period-Hyper Tension
+277,losartan,100,237,327,90,Medication Period-Hyper Tension
+277,losartan,100,415,505,90,Medication Period-Hyper Tension
+277,losartan,100,595,685,90,Medication Period-Hyper Tension
+277,losartan,50,597,687,90,Medication Period-Hyper Tension
+278,atorvastatin,20,156,246,90,Medication Period-High Blood Cholestrol
+278,atorvastatin,20,189,279,90,Medication Period-High Blood Cholestrol
+278,atorvastatin,20,211,301,90,Medication Period-High Blood Cholestrol
+278,atorvastatin,20,534,624,90,Medication Period-High Blood Cholestrol
+278,atorvastatin,20,559,649,90,Medication Period-High Blood Cholestrol
+278,metoprolol,100,156,201,45,Medication Period-Hyper Tension
+278,metoprolol,100,189,279,90,Medication Period-Hyper Tension
+278,metoprolol,100,211,256,45,Medication Period-Hyper Tension
+278,metoprolol,100,534,579,45,Medication Period-Hyper Tension
+278,metoprolol,100,559,649,90,Medication Period-Hyper Tension
+278,simvastatin,20,189,279,90,Medication Period-High Blood Cholestrol
+279,metformin,1000,59,89,30,Medication Period-Diabetes Type 2
+279,metformin,1000,370,400,30,Medication Period-Diabetes Type 2
+279,valsartan,320,59,89,30,Medication Period-Hyper Tension
+279,valsartan,320,314,344,30,Medication Period-Hyper Tension
+279,valsartan,320,564,594,30,Medication Period-Hyper Tension
+279,valsartan,320,624,654,30,Medication Period-Hyper Tension
+280,irbesartan,300,250,340,90,Medication Period-Hyper Tension
+280,irbesartan,300,395,485,90,Medication Period-Hyper Tension
+280,irbesartan,300,515,545,30,Medication Period-Hyper Tension
+280,irbesartan,300,640,670,30,Medication Period-Hyper Tension
+280,losartan,100,395,425,30,Medication Period-Hyper Tension
+280,losartan,100,432,462,30,Medication Period-Hyper Tension
+280,lovastatin,40,312,402,90,Medication Period-High Blood Cholestrol
+280,metformin,2000,0,30,30,Medication Period-Diabetes Type 2
+280,metformin,2000,101,131,30,Medication Period-Diabetes Type 2
+280,metoprolol,50,186,276,90,Medication Period-Hyper Tension
+280,metoprolol,50,278,368,90,Medication Period-Hyper Tension
+280,metoprolol,50,370,460,90,Medication Period-Hyper Tension
+280,metoprolol,50,459,489,30,Medication Period-Hyper Tension
+280,metoprolol,50,494,524,30,Medication Period-Hyper Tension
+280,metoprolol,50,529,559,30,Medication Period-Hyper Tension
+280,metoprolol,50,549,579,30,Medication Period-Hyper Tension
+280,metoprolol,50,550,580,30,Medication Period-Hyper Tension
+280,metoprolol,50,640,670,30,Medication Period-Hyper Tension
+281,atorvastatin,40,19,49,30,Medication Period-High Blood Cholestrol
+281,atorvastatin,80,19,49,30,Medication Period-High Blood Cholestrol
+281,atorvastatin,40,410,500,90,Medication Period-High Blood Cholestrol
+281,atorvastatin,40,518,608,90,Medication Period-High Blood Cholestrol
+286,propranolol,40,35,65,30,Medication Period-Hyper Tension
+286,propranolol,40,168,198,30,Medication Period-Hyper Tension
+286,propranolol,40,177,207,30,Medication Period-Hyper Tension
+286,propranolol,40,315,345,30,Medication Period-Hyper Tension
+286,propranolol,40,448,478,30,Medication Period-Hyper Tension
+286,propranolol,40,468,498,30,Medication Period-Hyper Tension
+286,propranolol,40,621,651,30,Medication Period-Hyper Tension
+287,atorvastatin,10,13,103,90,Medication Period-High Blood Cholestrol
+287,atorvastatin,10,195,285,90,Medication Period-High Blood Cholestrol
+287,atorvastatin,10,337,427,90,Medication Period-High Blood Cholestrol
+287,atorvastatin,10,561,651,90,Medication Period-High Blood Cholestrol
+288,lovastatin,40,216,306,90,Medication Period-High Blood Cholestrol
+288,lovastatin,40,485,575,90,Medication Period-High Blood Cholestrol
+288,metoprolol,50,55,85,30,Medication Period-Hyper Tension
+288,metoprolol,50,140,170,30,Medication Period-Hyper Tension
+288,metoprolol,50,223,253,30,Medication Period-Hyper Tension
+288,metoprolol,50,308,338,30,Medication Period-Hyper Tension
+288,metoprolol,50,392,422,30,Medication Period-Hyper Tension
+288,metoprolol,50,482,512,30,Medication Period-Hyper Tension
+288,metoprolol,50,573,603,30,Medication Period-Hyper Tension
+288,metoprolol,50,658,688,30,Medication Period-Hyper Tension
+289,losartan,50,212,302,90,Medication Period-Hyper Tension
+289,metoprolol,25,120,210,90,Medication Period-Hyper Tension
+290,simvastatin,20,249,339,90,Medication Period-High Blood Cholestrol
+291,atenolol,50,0,90,90,Medication Period-Hyper Tension
+291,atenolol,50,369,459,90,Medication Period-Hyper Tension
+291,losartan,100,0,90,90,Medication Period-Hyper Tension
+291,losartan,100,292,382,90,Medication Period-Hyper Tension
+291,losartan,100,369,459,90,Medication Period-Hyper Tension
+291,metformin,1000,0,90,90,Medication Period-Diabetes Type 2
+291,metformin,1000,368,458,90,Medication Period-Diabetes Type 2
+291,metformin,1000,369,459,90,Medication Period-Diabetes Type 2
+291,simvastatin,40,0,300,300,Medication Period-High Blood Cholestrol
+291,simvastatin,40,369,639,270,Medication Period-High Blood Cholestrol
+292,metformin,500,0,60,60,Medication Period-Diabetes Type 2
+292,metformin,500,314,404,90,Medication Period-Diabetes Type 2
+292,metformin,500,366,456,90,Medication Period-Diabetes Type 2
+292,metformin,500,401,491,90,Medication Period-Diabetes Type 2
+292,metformin,500,582,672,90,Medication Period-Diabetes Type 2
+292,pravastatin,80,260,350,90,Medication Period-High Blood Cholestrol
+292,pravastatin,80,582,672,90,Medication Period-High Blood Cholestrol
+293,atorvastatin,10,113,143,30,Medication Period-High Blood Cholestrol
+293,atorvastatin,10,115,145,30,Medication Period-High Blood Cholestrol
+293,atorvastatin,10,309,339,30,Medication Period-High Blood Cholestrol
+293,atorvastatin,10,527,557,30,Medication Period-High Blood Cholestrol
+293,olmesartan,80,197,227,30,Medication Period-Hyper Tension
+293,olmesartan,80,587,617,30,Medication Period-Hyper Tension
+293,propranolol,40,197,227,30,Medication Period-Hyper Tension
+293,propranolol,40,393,423,30,Medication Period-Hyper Tension
+293,propranolol,20,498,528,30,Medication Period-Hyper Tension
+293,propranolol,40,559,589,30,Medication Period-Hyper Tension
+294,atenolol,25,10,100,90,Medication Period-Hyper Tension
+294,atenolol,25,261,351,90,Medication Period-Hyper Tension
+294,atenolol,25,402,492,90,Medication Period-Hyper Tension
+294,atorvastatin,40,10,100,90,Medication Period-High Blood Cholestrol
+294,atorvastatin,40,52,142,90,Medication Period-High Blood Cholestrol
+294,atorvastatin,40,405,495,90,Medication Period-High Blood Cholestrol
+294,atorvastatin,40,580,670,90,Medication Period-High Blood Cholestrol
+294,losartan,100,10,100,90,Medication Period-Hyper Tension
+294,losartan,100,192,282,90,Medication Period-Hyper Tension
+294,losartan,100,378,468,90,Medication Period-Hyper Tension
+294,losartan,100,567,657,90,Medication Period-Hyper Tension
+296,atorvastatin,40,262,352,90,Medication Period-High Blood Cholestrol
+296,atorvastatin,40,599,689,90,Medication Period-High Blood Cholestrol
+296,metformin,2000,0,30,30,Medication Period-Diabetes Type 2
+296,metformin,2000,392,422,30,Medication Period-Diabetes Type 2
+296,metformin,2000,522,552,30,Medication Period-Diabetes Type 2
+297,irbesartan,300,11,101,90,Medication Period-Hyper Tension
+297,metformin,1000,11,71,60,Medication Period-Diabetes Type 2
+297,metoprolol,100,228,318,90,Medication Period-Hyper Tension
+297,metoprolol,50,315,405,90,Medication Period-Hyper Tension
+297,metoprolol,100,315,405,90,Medication Period-Hyper Tension
+297,pitavastatin,2,691,694,3,Medication Period-High Blood Cholestrol
+297,valsartan,640,7,97,90,Medication Period-Hyper Tension
+297,valsartan,640,11,56,45,Medication Period-Hyper Tension
+297,valsartan,640,81,171,90,Medication Period-Hyper Tension
+297,valsartan,640,82,96,14,Medication Period-Hyper Tension
+297,valsartan,640,83,97,14,Medication Period-Hyper Tension
+297,valsartan,640,410,424,14,Medication Period-Hyper Tension
+298,atorvastatin,20,309,399,90,Medication Period-High Blood Cholestrol
+298,atorvastatin,20,329,419,90,Medication Period-High Blood Cholestrol
+298,metformin,1000,309,399,90,Medication Period-Diabetes Type 2
+298,metformin,1000,557,647,90,Medication Period-Diabetes Type 2
+299,atorvastatin,10,117,147,30,Medication Period-High Blood Cholestrol
+299,atorvastatin,10,507,537,30,Medication Period-High Blood Cholestrol
+299,atorvastatin,10,529,559,30,Medication Period-High Blood Cholestrol
+299,atorvastatin,10,578,608,30,Medication Period-High Blood Cholestrol
+299,losartan,100,131,161,30,Medication Period-Hyper Tension
+299,losartan,100,143,173,30,Medication Period-Hyper Tension
+299,losartan,100,144,174,30,Medication Period-Hyper Tension
+299,losartan,100,461,491,30,Medication Period-Hyper Tension
+299,losartan,100,497,527,30,Medication Period-Hyper Tension
+299,losartan,100,529,559,30,Medication Period-Hyper Tension
+299,losartan,100,563,653,90,Medication Period-Hyper Tension

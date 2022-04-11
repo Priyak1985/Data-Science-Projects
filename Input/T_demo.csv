@@ -1,0 +1,301 @@
+id,race,gender,age,Age Group
+0,Unknown,Male,70,61-70
+1,White,Female,71,71-80
+2,White,Female,57,51-60
+3,White,Male,74,71-80
+4,White,Female,50,40-50
+5,Black,Male,73,71-80
+6,White,Female,60,51-60
+7,Asian,Female,62,61-70
+8,White,Female,68,61-70
+9,White,Female,80,71-80
+10,White,Male,66,61-70
+11,White,Female,71,71-80
+12,White,Female,80,71-80
+13,White,Female,67,61-70
+14,White,Female,81,81 and Above
+15,White,Male,84,81 and Above
+16,White,Female,80,71-80
+17,Black,Female,79,71-80
+18,White,Female,67,61-70
+19,White,Male,64,61-70
+20,Hispanic,Female,76,71-80
+21,White,Female,64,61-70
+22,White,Male,70,61-70
+23,White,Female,66,61-70
+24,White,Male,73,71-80
+25,White,Female,63,61-70
+26,White,Female,46,40-50
+27,White,Male,78,71-80
+28,White,Male,81,81 and Above
+29,Hispanic,Female,73,71-80
+30,Unknown,Female,84,81 and Above
+31,White,Female,64,61-70
+32,Black,Male,71,71-80
+33,White,Female,80,71-80
+34,White,Female,85,81 and Above
+35,White,Female,74,71-80
+36,White,Male,75,71-80
+37,White,Female,74,71-80
+38,Asian,Female,59,51-60
+39,Black,Male,58,51-60
+40,White,Female,55,51-60
+41,White,Female,71,71-80
+42,White,Male,74,71-80
+43,White,Female,69,61-70
+44,White,Female,76,71-80
+45,Asian,Female,70,61-70
+46,Black,Female,55,51-60
+47,White,Male,76,71-80
+48,White,Female,77,71-80
+49,White,Male,66,61-70
+50,White,Male,73,71-80
+51,Black,Female,79,71-80
+52,White,Female,60,51-60
+53,White,Male,79,71-80
+54,White,Male,80,71-80
+55,White,Male,46,40-50
+56,White,Female,69,61-70
+57,White,Male,67,61-70
+58,White,Male,79,71-80
+59,White,Male,59,51-60
+60,White,Male,73,71-80
+61,Unknown,Female,62,61-70
+62,White,Male,82,81 and Above
+63,White,Female,57,51-60
+64,White,Male,82,81 and Above
+65,White,Female,54,51-60
+66,White,Male,79,71-80
+67,White,Female,72,71-80
+68,White,Female,50,40-50
+69,Unknown,Female,78,71-80
+70,White,Male,79,71-80
+71,White,Female,84,81 and Above
+72,White,Male,81,81 and Above
+73,White,Female,61,61-70
+74,Asian,Female,68,61-70
+75,White,Female,84,81 and Above
+76,Hispanic,Female,71,71-80
+77,Unknown,Female,81,81 and Above
+78,White,Male,82,81 and Above
+79,White,Male,76,71-80
+80,White,Female,77,71-80
+81,White,Male,63,61-70
+82,White,Male,83,81 and Above
+83,White,Male,49,40-50
+84,Unknown,Female,65,61-70
+85,Hispanic,Male,58,51-60
+86,White,Male,48,40-50
+87,White,Female,84,81 and Above
+88,Unknown,Male,66,61-70
+89,White,Female,77,71-80
+90,White,Male,80,71-80
+91,White,Female,61,61-70
+92,White,Female,67,61-70
+93,White,Male,74,71-80
+94,Unknown,Female,69,61-70
+95,White,Female,65,61-70
+96,Unknown,Female,71,71-80
+97,White,Male,59,51-60
+98,White,Female,75,71-80
+99,Black,Female,73,71-80
+100,White,Female,68,61-70
+101,White,Female,65,61-70
+102,White,Female,85,81 and Above
+103,White,Female,84,81 and Above
+104,White,Male,57,51-60
+105,White,Male,68,61-70
+106,Asian,Male,52,51-60
+107,Black,Male,78,71-80
+108,Black,Male,82,81 and Above
+109,White,Female,68,61-70
+110,Unknown,Male,85,81 and Above
+111,Asian,Female,64,61-70
+112,Unknown,Female,60,51-60
+113,White,Male,80,71-80
+114,White,Female,58,51-60
+115,Unknown,Female,77,71-80
+116,White,Female,59,51-60
+117,White,Female,73,71-80
+118,Hispanic,Female,61,61-70
+119,White,Female,77,71-80
+120,White,Female,72,71-80
+121,White,Male,76,71-80
+122,White,Female,66,61-70
+123,White,Female,69,61-70
+124,White,Female,67,61-70
+125,White,Female,78,71-80
+126,White,Male,74,71-80
+127,White,Female,55,51-60
+128,White,Male,78,71-80
+129,Black,Male,72,71-80
+130,White,Male,61,61-70
+131,White,Male,85,81 and Above
+132,Black,Male,62,61-70
+133,White,Male,77,71-80
+134,White,Female,57,51-60
+135,White,Male,84,81 and Above
+136,Asian,Female,65,61-70
+137,Hispanic,Male,80,71-80
+138,White,Female,70,61-70
+139,White,Female,79,71-80
+140,Unknown,Female,75,71-80
+141,White,Male,79,71-80
+142,White,Male,84,81 and Above
+143,White,Female,67,61-70
+144,White,Female,61,61-70
+145,White,Male,64,61-70
+146,White,Male,74,71-80
+147,Black,Female,68,61-70
+148,White,Female,55,51-60
+149,White,Female,82,81 and Above
+150,White,Female,64,61-70
+151,White,Male,76,71-80
+152,Black,Female,74,71-80
+153,White,Female,77,71-80
+154,White,Female,70,61-70
+155,White,Male,71,71-80
+156,White,Female,72,71-80
+157,White,Female,60,51-60
+158,Black,Male,72,71-80
+159,White,Male,64,61-70
+160,White,Female,70,61-70
+161,Unknown,Male,67,61-70
+162,White,Female,70,61-70
+163,White,Male,61,61-70
+164,White,Male,84,81 and Above
+165,White,Male,76,71-80
+166,Unknown,Male,64,61-70
+167,White,Female,73,71-80
+168,White,Female,84,81 and Above
+169,White,Female,76,71-80
+170,White,Female,84,81 and Above
+171,White,Male,64,61-70
+172,White,Male,77,71-80
+173,White,Male,70,61-70
+174,White,Female,80,71-80
+175,White,Male,73,71-80
+176,White,Male,71,71-80
+177,White,Male,63,61-70
+178,White,Female,81,81 and Above
+179,White,Male,82,81 and Above
+180,White,Male,68,61-70
+181,Asian,Female,62,61-70
+182,White,Male,67,61-70
+183,White,Female,56,51-60
+184,White,Female,68,61-70
+185,Unknown,Female,69,61-70
+186,White,Female,71,71-80
+187,White,Male,73,71-80
+188,White,Female,75,71-80
+189,White,Female,64,61-70
+190,Black,Male,62,61-70
+191,White,Male,56,51-60
+192,White,Female,64,61-70
+193,White,Female,64,61-70
+194,Unknown,Male,67,61-70
+195,White,Female,81,81 and Above
+196,White,Female,74,71-80
+197,Black,Male,69,61-70
+198,White,Female,65,61-70
+199,White,Female,73,71-80
+200,White,Female,74,71-80
+201,White,Male,83,81 and Above
+202,White,Female,61,61-70
+203,White,Female,83,81 and Above
+204,White,Female,84,81 and Above
+205,White,Female,80,71-80
+206,White,Male,81,81 and Above
+207,Unknown,Male,66,61-70
+208,White,Male,47,40-50
+209,White,Male,68,61-70
+210,White,Male,56,51-60
+211,White,Female,77,71-80
+212,Unknown,Female,86,81 and Above
+213,White,Female,78,71-80
+214,White,Female,61,61-70
+215,White,Female,74,71-80
+216,White,Female,69,61-70
+217,White,Female,76,71-80
+218,Hispanic,Female,58,51-60
+219,White,Female,69,61-70
+220,White,Male,68,61-70
+221,White,Male,57,51-60
+222,Asian,Male,63,61-70
+223,White,Male,63,61-70
+224,White,Female,69,61-70
+225,White,Male,79,71-80
+226,Black,Female,76,71-80
+227,White,Female,73,71-80
+228,White,Male,84,81 and Above
+229,Asian,Female,57,51-60
+230,White,Female,74,71-80
+231,Unknown,Male,80,71-80
+232,White,Female,80,71-80
+233,Black,Male,65,61-70
+234,White,Male,84,81 and Above
+235,White,Female,74,71-80
+236,White,Male,83,81 and Above
+237,White,Male,74,71-80
+238,White,Female,55,51-60
+239,White,Female,54,51-60
+240,White,Female,68,61-70
+241,White,Female,73,71-80
+242,White,Male,69,61-70
+243,Unknown,Female,46,40-50
+244,Asian,Female,60,51-60
+245,White,Female,61,61-70
+246,White,Female,72,71-80
+247,Black,Male,67,61-70
+248,Black,Female,59,51-60
+249,Unknown,Female,47,40-50
+250,White,Female,79,71-80
+251,White,Male,70,61-70
+252,Asian,Female,72,71-80
+253,White,Male,81,81 and Above
+254,White,Male,58,51-60
+255,White,Female,74,71-80
+256,White,Male,66,61-70
+257,White,Male,74,71-80
+258,Unknown,Female,57,51-60
+259,White,Male,66,61-70
+260,White,Female,79,71-80
+261,Asian,Female,80,71-80
+262,White,Female,75,71-80
+263,White,Female,73,71-80
+264,White,Female,71,71-80
+265,Unknown,Female,85,81 and Above
+266,Asian,Female,48,40-50
+267,White,Male,71,71-80
+268,White,Female,69,61-70
+269,White,Female,72,71-80
+270,White,Female,77,71-80
+271,White,Male,55,51-60
+272,Asian,Male,72,71-80
+273,White,Male,68,61-70
+274,Black,Female,68,61-70
+275,White,Female,84,81 and Above
+276,White,Male,57,51-60
+277,White,Female,81,81 and Above
+278,White,Female,78,71-80
+279,Black,Female,64,61-70
+280,Unknown,Female,84,81 and Above
+281,Black,Male,51,51-60
+282,White,Male,74,71-80
+283,White,Female,67,61-70
+284,White,Female,71,71-80
+285,White,Male,81,81 and Above
+286,White,Male,85,81 and Above
+287,White,Female,72,71-80
+288,White,Male,74,71-80
+289,White,Female,66,61-70
+290,White,Male,70,61-70
+291,White,Female,60,51-60
+292,White,Female,73,71-80
+293,White,Male,72,71-80
+294,Black,Male,72,71-80
+295,White,Female,79,71-80
+296,White,Female,66,61-70
+297,Unknown,Male,80,71-80
+298,Asian,Female,72,71-80
+299,Asian,Male,84,81 and Above
