@@ -700,6 +700,8 @@ def my_KMeans(data,n=5,feature_selection=False,fitness_test=False):
         return pd.Series(y_predict),val
    
 
+##################################
+
 ###################################################################################################
 
 {
@@ -2768,3 +2770,4 @@ def my_KMeans(data,n=5,feature_selection=False,fitness_test=False):
  "nbformat": 4,
  "nbformat_minor": 5
 }
+
